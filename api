@@ -1,8 +1,50 @@
 {
-    "categories" = [
+    "categories": {
         "action": [
-            {"name": "One Piece"
-             "embed_id": "rvoUeOgsh3I?si=JfQxY1QSXmcUzK32"}
+            {
+                "name": "One Piece",
+                "embed_id": "rvoUeOgsh3I?si=JfQxY1QSXmcUzK32"
+            },
+            {
+                "name": "Naruto",
+                "embed_id": "VIDEO_ID_HERE"
+            },
+            {
+                "name": "Attack on Titan",
+                "embed_id": "VIDEO_ID_HERE"
+            },
+            {
+                "name": "Dragon Ball",
+                "embed_id": "VIDEO_ID_HERE"
+            }
+        ],
+        "comedy": [
+            {
+                "name": "One Punch Man",
+                "embed_id": "VIDEO_ID_HERE"
+            },
+            {
+                "name": "Gintama",
+                "embed_id": "VIDEO_ID_HERE"
+            },
+            {
+                "name": "Nichijou",
+                "embed_id": "VIDEO_ID_HERE"
+            }
+        ],
+        "drama": [
+            {
+                "name": "Death Note",
+                "embed_id": "VIDEO_ID_HERE"
+            },
+            {
+                "name": "Steins;Gate",
+                "embed_id": "VIDEO_ID_HERE"
+            },
+            {
+                "name": "Your Lie in April",
+                "embed_id": "VIDEO_ID_HERE"
+            }
         ]
-    ]
+    }
 }
