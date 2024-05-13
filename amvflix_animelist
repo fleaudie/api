@@ -527,5 +527,49 @@
       "author": "Hayao Miyazaki",
       "year": "2004"
     }
+  ],
+
+  "genre": [
+    {
+      "Action" : "https://photos.app.goo.gl/MQtvpKCDJspyPsVv8",
+      "Adventure" : "https://photos.app.goo.gl/tSFxK1Ppsv3Eb9mu6",
+      "Cars" : "https://photos.app.goo.gl/qghgfFDvvri1cMZ17",
+      "Comedy" : "https://photos.app.goo.gl/3L4rykcsUXH3EfRd9",
+      "Dark Fantasy" : "https://photos.app.goo.gl/rdc2geTiYguvGP1t5",
+      "Demon" : "https://photos.app.goo.gl/8hJXKxtQTq9fGtkQ7",
+      "Detective" : "https://photos.app.goo.gl/LdA6bc3BQ8SDhMDT8",
+      "Drama" : "https://photos.app.goo.gl/q4uAQugoMiyMM7tSA",
+      "Ecchi" : "https://photos.app.goo.gl/TxM48heKqg8Bybes6",
+      "Fantasy" : "https://photos.app.goo.gl/hEtvT2fTcLY2coHq7",
+      "Game" : "https://photos.app.goo.gl/MMRykQdqJJzkbJHj7",
+      "Historical" : "https://photos.app.goo.gl/91sm7djZ2DscUKVPA",
+      "Horror" : "https://photos.app.goo.gl/PK6q65tXvEWjwxbWA",
+      "Josei" : "https://photos.app.goo.gl/AwibcGjLPZZQNaa1A",
+      "Magic" : "https://photos.app.goo.gl/vgCkCHijzJD9eNaH6",
+      "Martial Arts" : "https://photos.app.goo.gl/Qu5DUvXXmdKMxTt78",
+      "Mecha" : "https://photos.app.goo.gl/rwmLnp2SrXAK8C7t5",
+      "Music" : "https://photos.app.goo.gl/UJ7QCQkANSzqLChh6",
+      "Mystery" : "https://photos.app.goo.gl/AjFUrTfCKQ2twjMM7",
+      "Parody" : "https://photos.app.goo.gl/M9LqKRNfCrukja1E7",
+      "Psychological" : "https://photos.app.goo.gl/Qm6ewbXCjSNWgpXN9",
+      "Romance" : "https://photos.app.goo.gl/JmZnZFUXwMRVFrS69",
+      "Samurai" : "https://photos.app.goo.gl/kxX4QyredZcs3SSi8",
+      "School" : "https://photos.app.goo.gl/4pYqdzZ6Y2Go7FvW6",
+      "Sci-Fi" : "https://photos.app.goo.gl/vdLZEqwU8riTA8828",
+      "Science" : "https://photos.app.goo.gl/13j8Ki9nLxkdSTg97",
+      "Seinen" : "https://photos.app.goo.gl/wYWkxQ8VXvjmVzUbA",
+      "Shoujo" : "https://photos.app.goo.gl/NW2dpkRYSyHqgWA5A",
+      "Shounen" : "https://photos.app.goo.gl/Yxv5jmEEprGue3Du5",
+      "Slice of Life" : "https://photos.app.goo.gl/1DMEh5cTw18kRZpX7",
+      "Space" : "https://photos.app.goo.gl/ThHYU27NvHYm2Cn39",
+      "Sport" : "https://photos.app.goo.gl/qd1ARThzD5xioTkn8",
+      "Supernatural" : "https://photos.app.goo.gl/GZZtssKGFLe7kran8",
+      "Supernatural Powers" : "https://photos.app.goo.gl/Eo64GWe2r2jTv6po7",
+      "Superpower" : "https://photos.app.goo.gl/owdpfPvTPRw2Mk3W8",
+      "Thriller" : "https://photos.app.goo.gl/zJJERrhwC6faoY4RA",
+      "Vampire" : "https://photos.app.goo.gl/9gPxytyExpyeZKoh9",
+      "Yaoi" : "https://photos.app.goo.gl/Qvo9TAfJpLjixceu8",
+      "Yuri" : "https://photos.app.goo.gl/eED3WGr5yLXF3X657"
+    } 
   ]
 }
