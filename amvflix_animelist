@@ -1,214 +1,531 @@
 {
-    "anime": [ 
-            {
-                "name": "One Piece",
-                "embed_id": "kLLeDYwQp5o?si=VypRQpe_oPHXiAAR",
-                "description": "One Piece, Eiichiro Oda tarafından yazılan ve çizilen, dünya çapında büyük bir hayran kitlesine sahip uzun soluklu bir manga ve anime serisidir. Seri, Monkey D. Luffy adlı genç bir korsanın, efsanevi One Piece hazinei arayışını konu alır. Luffy, bir grup maceracı arkadaşıyla birlikte Grand Line adı verilen tehlikeli denizlerde yolculuk eder, çeşitli tehlikelerle ve düşmanlarla karşılaşırken hem dostluklar kurar hem de güçlenir. One Piece, keşif, macera, savaş ve dostluk gibi temaları ustalıkla işlerken, geniş bir evren ve zengin karakterlerle doludur.",
-                "main_characters": ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Franky", "Brook", "Jinbei"],
-                "tags": ["Action", "Adventure", "Comedy", "Drama", "Fantasy", "Shounen"],
-                "head_photo": "https://photos.app.goo.gl/BUMfLEX4nAoMpVFc8",
-                "author": "Eiichiro Oda",
-                "year": "1999"
-            },
-            {
-                "name": "Naruto",
-                "embed_id": "WlVxhQAgXro?si=1jbVE-nY3PxGMZ3X",
-                "description": "Naruto, Masashi Kishimoto tarafından yaratılan ve dünya çapında büyük bir popülerliğe sahip olan bir manga ve anime serisidir. Seri, Naruto Uzumaki adındaki genç bir ninja öğrencisinin hikayesini takip eder. Naruto, köyündeki diğer ninja öğrencileriyle birlikte çeşitli görevlerde ve sınavlarda rekabet ederken, kendi gücünü keşfetme ve toplumda kabul görmeyi amaçlar. Ana tema, arkadaşlık, cesaret ve kişisel gelişim etrafında dönerken, seride ninja dünyasının karmaşıklığı ve savaşlarının yanı sıra karakterlerin derin duygusal yolculukları da işlenir.",
-                "main_characters": ["Naruto Uzumaki", "Sasuke Uchiha", "Sakura Haruno", "Kakashi Hatake", "Shikamaru Nara", "Hinata Hyuga", "Rock Lee", "Neji Hyuga", "Gaara"],
-                "tags": ["Action", "Adventure", "Comedy", "Drama", "Fantasy", "Shounen"],
-                "head_photo": "https://photos.app.goo.gl/ia93uiguvD6hJm2VA",
-                "author": "Masashi Kishimoto",
-                "year": "2002"
-            },
-            {
-                "name": "Attack on Titan(Shingeki no Kyojin)",
-                "embed_id": "X5bY0skFp18?si=WsTwkwumHKgJ6hm5",
-                "description": "Attack on Titan, Hajime Isayama tarafından yazılan ve çizilen, distopik bir dünyada geçen popüler bir manga ve anime serisidir. Seri, insanlığın devasa yaratıklar olan Titanlar tarafından tehdit edildiği bir dünyada geçer. Ana karakterlerden Eren Yeager, Mikasa Ackerman ve Armin Arlert, surlarla çevrili son insan şehri olan ve Titanların saldırısından korunan Wall Maria'da yaşarlar. Ancak, bir gün surların yıkılmasıyla birlikte Eren'in annesi dahil birçok insan Titanlar tarafından yenilir. Bunun üzerine Eren, Mikasa ve Armin, Titanlara karşı savaşmak ve insanlığı kurtarmak için birlikte savaşmaya başlarlar. Seri, savaş, insan doğası, adalet ve kurtuluş gibi derin temaları işlerken, bol aksiyon ve gizemle doludur.",
-                "main_characters": ["Eren Yeager", "Mikasa Ackerman", "Armin Arlert", "Levi Ackerman", "Erwin Smith", "Annie Leonhart", "Jean Kirstein", "Sasha Blouse", "Connie Springer"],
-                "tags": ["Action", "Dark Fantasy", "Drama", "Horror", "Mystery", "Shounen"],
-                "head_photo": "https://photos.app.goo.gl/YcoZbx5U2m8WUk8J7",
-                "author": "Hajime Isayama",
-                "year": "2013"
-            },
-            {
-                "name": "Demon Slayer(Kimetsu no Yaiba)",
-                "embed_id": "foxUhOErD28?si=2FDzjmzyG5uUq_eW",
-                "description": "Kimetsu no Yaiba, Koyoharu Gotouge tarafından yazılan ve çizilen, Japonya'da büyük bir fenomen haline gelen bir manga ve anime serisidir. Seri, Taisho döneminde geçen ve insanların yaratıklar olan iblislerle savaştığı bir dünyada geçer. Ana karakterlerden Tanjiro Kamado'nun ailesi bir iblis tarafından öldürülür, ancak kız kardeşi Nezuko'nun bir iblis olmasıyla hayatta kalır. Tanjiro, Nezuko'yu insan yapmayı ve ailesinin intikamını almayı amaçlayarak iblis avcısı olmaya karar verir. Yolculuğunda çeşitli iblislerle savaşırken, güçlenir ve dostluklar kurar. Kimetsu no Yaiba, aksiyon dolu sahneleri, duygusal derinliği ve karakter gelişimi ile dikkat çeker.",
-                "main_characters": ["Tanjiro Kamado", "Nezuko Kamado", "Zenitsu Agatsuma", "Inosuke Hashibira", "Giyu Tomioka", "Kyojuro Rengoku", "Shinobu Kocho", "Tengen Uzui", "Mitsuri Kanroji"],
-                "tags": ["Action", "Adventure", "Dark Fantasy", "Drama", "Supernatural", "Shounen"],
-                "head_photo": "https://photos.app.goo.gl/oBrp5UQPry6DLoKu9",
-                "author": "Koyoharu Gotouge",
-                "year": "2019"
-            },
-            {
-                "name": "Jujutsu Kaisen",
-                "embed_id": "bXeoRnXOmDc?si=wga4-UpC73A34Wzx",
-                "description": "Jujutsu Kaisen, Gege Akutami tarafından yazılan ve çizilen, modern dünyada doğaüstü varlıklarla savaşan bir grup lanet avcısının hikayesini anlatan bir manga ve anime serisidir. Ana karakterlerden Yuji Itadori, tesadüfen antik bir laneti yutarak lanet avcıları dünyasına girmesiyle başlar. Yuji, Tokyo Metropolitan Sihrî Teknikler Okulu'na katılır ve diğer lanet avcılarıyla birlikte lanetleri avlamaya başlar. Bu sırada, kendisini yuttuğu lanetle savaşırken güçlerini keşfeder ve geliştirir. Jujutsu Kaisen, dinamik dövüş sahneleri, derin karakter gelişimi ve karanlık temalarıyla öne çıkar.",
-                "main_characters": ["Yuji Itadori", "Ryomen Sukuna", "Megumi Fushiguro", "Nobara Kugisaki", "Satoru Gojo", "Panda", "Maki Zenin", "Toge Inumaki", "Kento Nanami", "Aoi Todo", "Suguru Geto"],
-                "tags": ["Action", "Supernatural", "Dark Fantasy", "Shounen", "Horror", "School"],
-                "head_photo": "https://photos.app.goo.gl/8RwkuiMiCryVKbZa8",
-                "author": "Gege Akutami",
-                "year": "2020"
-            },
-            {
-                "name": "My Hero Academia",
-                "embed_id": "gnid6aNQO6Y?si=s_DEx03UyWTdB8GX",
-                "description": "My Hero Academia, Kohei Horikoshi tarafından yazılan ve çizilen, süper güçlere sahip kahramanların ve kötülerin mücadelesini konu alan bir manga ve anime serisidir. Seri, Deku adında güçsüz bir genç olan Izuku Midoriya'nın, en büyük kahraman All Might'ın güçlerini devralarak süper kahraman olma yolundaki macerasını anlatır. Deku, UA Lisesi'nde eğitim alırken, diğer öğrencilerle birlikte süper güçlerini kontrol etmeyi öğrenir ve kötülere karşı savaşır. My Hero Academia, klasik kahramanlık temasını modern bir tarzda işlerken, arkadaşlık, cesaret ve kişisel büyüme gibi evrensel temaları da ele alır.",
-                "main_characters": ["Izuku Midoriya (Deku)", "Katsuki Bakugo", "Shoto Todoroki", "Ochaco Uraraka", "Tenya Iida", "Tsuyu Asui", "All Might", "Eraserhead (Shota Aizawa)", "Endeavor"],
-                "tags": ["Action", "Superpower", "Shounen", "School", "Comedy", "Drama"],
-                "head_photo": "https://photos.app.goo.gl/uvS4gUNAudtXou1r6",
-                "author": "Kohei Horikoshi",
-                "year": "2014"
-            },
-            {
-                "name": "Black Clover",
-                "embed_id": "LXwvVhdWH4s?si=9YUaOevvEmlXsdf5",
-                "description": "Black Clover, Yuki Tabata tarafından yazılan ve çizilen, büyü gücü olmayan bir genç olan Asta'nın, büyü gücü olan ve Kral Büyücü olarak bilinen efsanevi sihirbazı taklit etme hayaliyle dolu bir dünyada geçen bir manga ve anime serisidir. Asta, bir gün sihir kitabı Grimoire adını taşıyan bir kitap bulur ve içinden güçler alır. Arkadaşı Yuno da benzer şekilde bir Grimoire bulur ve güçler kazanır. Asta ve Yuno, sihirli bir şövalye olmak için Krallık Şövalyeleri'ne katılmak için yola çıkarlar. Black Clover, dostluk, azim ve kişisel gelişim gibi temaları işlerken, büyüleyici dünyası ve heyecan verici dövüş sahneleriyle dikkat çeker.",
-                "main_characters": ["Asta", "Yuno", "Noelle Silva", "Yami Sukehiro", "Magna Swing", "Luck Voltia", "Vanessa Enoteca", "Finral Roulacase", "Secre Swallowtail"],
-                "tags": ["Action", "Adventure", "Magic", "Shounen", "Fantasy", "Comedy"],
-                "head_photo": "https://photos.app.goo.gl/XzgLP3hm5e12c7Ye9",
-                "author": "Yuki Tabata",
-                "year": "2015"
-            },
-            {
-                "name": "Fullmetal Alchemist: Brotherhood",
-                "embed_id": "kKtNiPpJy0A?si=uBn9fid_vJ4P9bB9",
-                "description": "Fullmetal Alchemist: Brotherhood, Hiromu Arakawa tarafından yazılan ve çizilen, alkiminin gücü ve insan doğasının karmaşıklığı üzerine derin bir hikaye anlatan bir manga ve anime serisidir. Seri, Elric kardeşler Edward ve Alphonse'un, annelerini geri getirmek için yaptıkları yanlış simyanın ardından yaşadıkları trajik olayları konu alır. Edward, bir simyacı olarak, Tam Metal Simyacı olarak bilinirken, Alphonse'un ruhu bir zırhın içine hapis edilmiştir. Kardeşler, kaybettikleri şeyleri geri almak ve yaptıkları hataları telafi etmek için bir yolculuğa çıkarlar. Fullmetal Alchemist: Brotherhood, güçlü kardeşlik bağları, insanlık ve kurban verme gibi evrensel temaları işlerken, zengin bir dünya ve derin karakter gelişimi sunar.",
-                "main_characters": ["Edward Elric", "Alphonse Elric", "Roy Mustang", "Winry Rockbell", "Riza Hawkeye", "Scar", "Van Hohenheim", "Maes Hughes", "Ling Yao"],
-                "tags": ["Action", "Adventure", "Drama", "Fantasy", "Shounen", "Alchemy"],
-                "head_photo": "https://photos.app.goo.gl/DS8xBB1MjQGzufAXA",
-                "author": "Hiromu Arakawa",
-                "year": "2009"
-            },
-            {
-                "name": "Gintama",
-                "embed_id": "-YgeQvUfPJk?si=SdVDNdES6jWfOorw",
-                "description": "Gintama, Hideaki Sorachi tarafından yazılan ve çizilen, absürt komedi, aksiyon ve dramatik öğelerin harmanlandığı benzersiz bir manga ve anime serisidir. Seri, Edo dönemi Japonya'sında uzaylılar tarafından işgal edilmiş bir dünyada geçer. Ana karakter Gintoki Sakata, samuraylık mesleğini bırakmış bir özgür ruh olarak yaşar. Gintoki, arkadaşları Shinpachi Shimura ve Kagura ile birlikte çeşitli işlerde çalışarak hayatlarını sürdürürken, zaman zaman işler karmaşıklaşır ve eski düşmanlarla karşılaşırlar. Gintama, esprili diyaloglar, parodi unsurları ve duygusal anlarla dolu bir seridir ve genellikle absürd olaylarla dolu olan ama aynı zamanda derin duygusal derinlikler de sunan bir hikaye sunar.",
-                "main_characters": ["Gintoki Sakata", "Shinpachi Shimura", "Kagura", "Kotaro Katsura", "Toshiro Hijikata", "Sougo Okita", "Kyuubei Yagyu", "Tae Shimura", "Sadaharu"],
-                "tags": ["Action", "Comedy", "Parody", "Sci-Fi", "Samurai", "Shounen"],
-                "head_photo": "https://photos.app.goo.gl/3xMrfZbVbjLUdfeC6",
-                "author": "Hideaki Sorachi",
-                "year": "2006"
-            },
-            {
-                "name": "One Punch Man",
-                "embed_id": "uTQwz35LiNk?si=k9mmwKvQ9Q4b0g6S",
-                "description": "One Punch Man, ONE tarafından yaratılan ve Yusuke Murata tarafından çizilen, süper kahraman olma arzusuyla yanıp tutuşan ancak her düşmanı tek yumrukla alt eden Saitama'nın hikayesini anlatan bir manga ve anime serisidir. Saitama, sıradan bir görünüşe sahip olsa da, antrenmanının sonucunda inanılmaz bir güce ve dayanıklılığa sahiptir. Ancak, bu güç onu tekdüze bir yaşama sürüklemiştir, çünkü hiçbir rakibi onunla başa çıkamamaktadır. Saitama, kendisine çeşitli düşmanlar ve süper kahramanlarla karşılaştığı, bazen komik, bazen de epik olan maceralarında genellikle can sıkıntısından muzdarip bir şekilde yer alır. One Punch Man, süper kahraman türünü alaya alırken aynı zamanda aksiyon ve mizahı ustaca birleştirir.",
-                "main_characters": ["Saitama", "Genos", "Speed-o'-Sound Sonic", "Mumen Rider", "Bang", "Tatsumaki", "King", "Metal Bat", "Fubuki"],
-                "tags": ["Action", "Comedy", "Parody", "Superpower", "Seinen", "Sci-Fi"],
-                "head_photo": "https://photos.app.goo.gl/ytjiCLTiWB9yZxPw6",
-                "author": "ONE",
-                "year": "2009"
-            },
-            {
-                "name": "Your Lie in April(Shigatsu wa Kimi no Uso)",
-                "embed_id": "YMgcBNRurJY?si=PmkljdIw2tcljTLw",
-                "description": "Your Lie in April, Naoshi Arakawa tarafından yazılan ve çizilen, müzik ve duygusal temasıyla dikkat çeken bir manga ve anime serisidir. Seri, müziğe yetenekli olan ancak duygusal olarak kırılgan bir genç olan Kousei Arima'nın hikayesini anlatır. Kousei, annesinin ölümünden sonra piyanoya olan yeteneğini kaybetmiş ve müziği duyamaz hale gelmiştir. Ancak, hayatına giren güçlü ve renkli bir keman virtüözü olan Kaori Miyazono, Kousei'nin hayatını değiştirir. Kaori'nin cesareti ve tutkusu, Kousei'nin müziğe olan sevgisini yeniden keşfetmesine yardımcı olur. Ancak, Kaori'nin kendi sağlık sorunlarıyla başa çıkmasıyla birlikte, ikisinin de hayatında zorlu zamanlar beklemektedir. Your Lie in April, müziğin gücü, aşkın karmaşıklığı ve kişisel büyüme üzerine dokunaklı bir hikaye sunar.",
-                "main_characters": ["Kousei Arima", "Kaori Miyazono", "Tsubaki Sawabe", "Ryota Watari", "Emi Igawa", "Hiroko Seto", "Nagi Aiza", "Saki Arima", "Hiroko Seto"],
-                "tags": ["Drama", "Romance", "Music", "Slice of Life", "Shounen"],
-                "head_photo": "https://photos.app.goo.gl/agceT7mFX1VGQtTp8",
-                "author": "Naoshi Arakawa",
-                "year": "2011"
-            },
-            {
-                "name": "Bleach",
-                "embed_id": "hc8hW26vuI4?si=Vg5dr3CA9ymeZxLj",
-                "description": "Bleach, Tite Kubo tarafından yazılan ve çizilen, ruhlarla savaşan bir genç olan Ichigo Kurosaki'nin hikayesini anlatan bir manga ve anime serisidir. Ichigo, beklenmedik bir şekilde Rukia Kuchiki adında bir Shinigami ile tanışır ve onun güçlerini kazanır. Artık Hollow adı verilen kötü ruhları avlamak ve ruhları ölüler diyarına götürmekle görevlidir. Ichigo, Rukia'nın görevini yerine getirirken, insan dünyasını ve ruh dünyasını tehdit eden güçlü düşmanlarla karşılaşır. Bu süreçte, dostluklar kurar, güçlenir ve geçmişiyle yüzleşir. Bleach, aksiyon dolu savaş sahneleri, karmaşık karakterler ve mistik öğelerle dolu bir evren sunar.",
-                "main_characters": ["Ichigo Kurosaki", "Rukia Kuchiki", "Orihime Inoue", "Uryu Ishida", "Renji Abarai", "Byakuya Kuchiki", "Kenpachi Zaraki", "Toshiro Hitsugaya", "Grimmjow Jaegerjaquez"],
-                "tags": ["Action", "Adventure", "Supernatural", "Shounen", "Fantasy", "Drama"],
-                "head_photo": "https://photos.app.goo.gl/vK5bpknZjETpjwkZ9",
-                "author": "Tite Kubo",
-                "year": "2001"
-            },
-            {
-                "name": "Fate/Stay Night Movie: Unlimited Blade Works",
-                "embed_id": "kU3eBLS_3Oc?si=8T7uIJKxxWNSo1Ke",
-                "description": "Fate/Stay Night Movie: Unlimited Blade Works, Fate/Stay Night serisinin bir parçası olan bir anime filmidir. Film, büyülü bir mücadele olan Holy Grail War'ın bir versiyonunu anlatır. Ana karakter Shirou Emiya, Holy Grail War'a katılan büyücülerden biridir ve kendi dileğiyle savaşa katılmıştır. Ancak, kendini korumak ve sevdiklerini kurtarmak için mücadele ederken, gerçek niyetlerini ve arzularını keşfeder. Filmde, Holy Grail War'ın gizemleri ve tehlikeleriyle dolu epik savaş sahneleri ve karakterlerin derinlikli hikayeleri bulunur. Fate/Stay Night Movie: Unlimited Blade Works, aksiyon ve fantastik unsurlarla dolu heyecan verici bir seridir.",
-                "main_characters": ["Shirou Emiya", "Rin Tohsaka", "Archer", "Saber", "Illyasviel von Einzbern", "Gilgamesh", "Lancer", "Rider", "Assassin"],
-                "tags": ["Action", "Fantasy", "Supernatural", "Drama", "Romance", "Anime Film"],
-                "head_photo": "https://photos.app.goo.gl/1k2HnnvfCdUq16NT7",
-                "author": "Kinoko Nasu",
-                "year": "2014"
-            },
-            {
-                "name": "Fate/Zero",
-                "embed_id": "Lnj7agXvZ88?si=qaX8a0EZhFg7ojXX",
-                "description": "Fate/Zero, Gen Urobuchi tarafından yazılan bir light novel serisinden uyarlanan, Fate serisinin bir parçası olan bir anime serisidir. Hikaye, Kiritsugu Emiya gibi bir dizi büyücünün, Holy Grail War adı verilen bir savaşta bir araya gelmesini ve büyülü kadeh için rekabet etmesini konu alır. Bu savaş, yedi büyücü ve onların ruh çağırma hizmetkârları arasında gerçekleşir. Ancak, her katılımcının kendi amacı ve niyeti vardır. Kiritsugu gibi birçok karakter, kendi geçmişi ve idealleriyle yüzleşirken, savaşın gerçek yüzü ortaya çıkar. Fate/Zero, karmaşık karakter ilişkileri, etkileyici aksiyon sahneleri ve derin felsefi temaları ustaca bir araya getirir.",
-                "main_characters": ["Kiritsugu Emiya", "Saber", "Rider", "Waver Velvet", "Archer", "Kirei Kotomine", "Lancer", "Berserker", "Caster"],
-                "tags": ["Action", "Dark Fantasy", "Supernatural", "Drama", "Thriller", "Seinen"],
-                "head_photo": "https://photos.app.goo.gl/n6KmvghEsYH1X5qC6",
-                "author": "Gen Urobuchi",
-                "year": "2006"
-            },
-            {
-                "name": "Spy x Family",
-                "embed_id": "HUtSylZxFcI?si=8jA22-dyP7ULXNwG",
-                "description": "Spy x Family, Tatsuya Endo tarafından yazılan ve çizilen, casusluk, aksiyon ve komedi unsurlarını içeren bir manga serisidir. Hikaye, Dünya Savaşı'ndan ilham alan bir soğuk savaş döneminde geçer ve ana karakterlerden biri olan Twilight adlı bir casusun etrafında döner. Twilight, görevi gereği bir aileyi kurması gerekmektedir ve bu amaçla bir yetimhaneden bir kız olan Anya'yı evlat edinir. Ancak, Anya'nın özel yetenekleri olduğu ortaya çıkar ve Twilight'ın görevi daha da karmaşık hale gelir. Daha sonra, Twilight bir kadın olan Yor Briar ile evlenir, ancak onun da kendine ait bir sır sakladığı ortaya çıkar. Bu üçlü, bir araya gelerek hem aile olmayı hem de sırlarını korumayı öğrenirler. Spy x Family, gizemli casusluk dünyasını eğlenceli bir aile hikayesiyle birleştirirken, mizah ve duygusal anlarla da dikkat çeker.",
-                "main_characters": ["Twilight", "Yor Briar", "Anya Forger"],
-                "tags": ["Action", "Comedy", "Slice of Life", "Spy", "Shounen"],
-                "head_photo": "https://photos.app.goo.gl/4JDT2a3EAJDjrDuJ8",
-                "author": "Tatsuya Endo",
-                "year": "2019"
-            },
-            {
-                "name": "Chainsaw Man",
-                "embed_id": "46te23Xo4iQ?si=ETR95svBVeVvKWCp",
-                "description": "Chainsaw Man, Tatsuki Fujimoto tarafından yazılan ve çizilen, karanlık ve çılgın bir dünyada geçen bir manga serisidir. Hikaye, yoksul bir yaşam süren Denji adındaki genç bir adamın etrafında döner. Denji, babasının borçlarını ödemek ve hayatta kalmak için şeytan avcısı olarak çalışır. Ancak, bir gün şeytanlarla olan mücadelesi sonucunda hayatı kökten değişir. Denji, bir şeytan köpeği olan Pochita ile birleşerek Chainsaw Man adı verilen bir varlığa dönüşür. Bu değişim, Denji'yi hem insan hem de şeytan dünyasında çeşitli tehlikelerle karşı karşıya getirir. Chainsaw Man, çılgın ve vahşi aksiyon sahneleriyle dolu, sıradışı bir hikaye sunar.",
-                "main_characters": ["Denji", "Power", "Aki Hayakawa", "Makima", "Pochita", "Kishibe"],
-                "tags": ["Action", "Dark Fantasy", "Horror", "Supernatural", "Seinen"],
-                "head_photo": "https://photos.app.goo.gl/sDgQfj9XaxAVTni88",
-                "author": "Tatsuki Fujimoto",
-                "year": "2018"
-            },
-            {
-                "name": "Suzume no Tojimari",
-                "embed_id": "EB90M9d_-bk?si=3j0Fbeq9aNe8MSpU",
-                "description": "Suzume no Tojimari, Mika Yamamori tarafından yazılan ve çizilen bir manga serisidir. Hikaye, lise öğrencisi Suzume Kikushima'nın etrafında döner. Suzume, zorbalık ve yalnızlıkla dolu bir geçmişe sahiptir ve bu nedenle insanlarla ilişki kurmaktan kaçınır. Ancak, yeni okuluna başladığında, kendisini dikkat çekici ve karizmatik bir sınıf arkadaşı olan Mamura Kichiyo'nun ilgisine çekilmiş bulur. İkisi arasında bir yakınlık gelişirken, Suzume'nin geçmişiyle ve duygularıyla yüzleşmesi gerekecektir. Suzume no Tojimari, ergenlik dönemindeki karmaşık duyguları, arkadaşlık ve ilk aşkı ele alan dokunaklı bir romantik hikaye sunar.",
-                "main_characters": ["Suzume Kikushima", "Mamura Kichiyo", "Daiki Mamura", "Yuyuka Nekota", "Togyu Kuzu", "Yuyuka Kikushima"],
-                "tags": ["Romance", "Slice of Life", "School", "Drama", "Shoujo"],
-                "head_photo": "https://photos.app.goo.gl/WSYwPapp9LrkQn6b9",
-                "author": "Mika Yamamori",
-                "year": "2017"
-            },
-            {
-                "name": "Kimi no Na wa.",
-                "embed_id": "A1QGse7PSII?si=WcRznpWn63tmIn7s",
-                "description": "Kimi no Na wa., Makoto Shinkai tarafından yazılan ve yönetilen, popüler ve beğenilen bir anime filmidir. Hikaye, Mitsuha Miyamizu adında bir kız ve Taki Tachibana adında bir erkek arasında geçiş yapan bir beden değişimi fenomenini konu alır. Mitsuha, bir dağ kasabasında yaşayan geleneksel bir aileye mensuptur, Taki ise Tokyo'da yaşayan modern bir lisedir. İkisi, birbirlerinin hayatlarında belirli günlerde uyandıklarında karşı cinsten bir bedende bulurlar kendilerini. Bu durum, ikisinin hayatlarını ve ilişkilerini derinden etkiler. Ancak, bu değişim sadece fiziksel değil, aynı zamanda duygusal bir bağ kurmalarına da olanak tanır. Kimi no Na wa., duygusal derinlik, görsel şölen ve sıra dışı bir hikaye anlatımıyla öne çıkar.",
-                "main_characters": ["Mitsuha Miyamizu", "Taki Tachibana"],
-                "tags": ["Romance", "Fantasy", "Drama", "Slice of Life", "Supernatural", "Anime Film"],
-                "head_photo": "https://photos.app.goo.gl/JTzAe5WZbjUwGPZ87",
-                "author": "Makoto Shinkai",
-                "year": "2016"
-            },
-            {
-                "name": "Tenki no Ko",
-                "embed_id": "R2l-AncgvPw?si=VXYDDM0wI_ROxNvp",
-                "description": "Tenki no Ko, Makoto Shinkai tarafından yazılan ve yönetilen, atmosferik görselleri ve dokunaklı hikayesiyle dikkat çeken bir anime filmidir. Hikaye, Tokyo'dan kaçıp bir adaya sığınan ve burada gizemli bir hizmete başlayan genç bir adam olan Hodaka Morishima ile tanışan Hina Amano adında bir kız arasındaki ilişkiyi anlatır. Hina, yağmur yağdığında hava durumunu kontrol edebilen gizemli bir güce sahiptir. Bu güç, onu ve Hodaka'yı hem mucizevi hem de tehlikeli bir maceraya sürükler. Film, doğanın gücüyle insan ilişkilerini, umudu ve yaşamın döngüsünü derinlemesine keşfederken, karakterlerin duygusal gelişimini de ele alır. Tenki no Ko, görsel şöleni ve etkileyici atmosferiyle izleyiciyi büyüler.",
-                "main_characters": ["Hodaka Morishima", "Hina Amano"],
-                "tags": ["Romance", "Fantasy", "Drama", "Slice of Life", "Supernatural", "Anime Film"],
-                "head_photo": "https://photos.app.goo.gl/HbR7cJ6kcB6BTpa46",
-                "author": "Makoto Shinkai",
-                "year": "2019"
-            },
-            {
-                "name": "Josee to Tora to Sakana-tachi",
-                "embed_id": "8kpROwp0ino?si=_VdY1NK6IoWo2MaC",
-                "description": "Josee to Tora to Sakana-tachi, Seiko Tanabe'nin Josee, the Tiger and the Fish adlı kısa hikayesinden uyarlanan, bir genç adamın engelli bir genç kızla olan ilişkisini anlatan duygusal bir anime filmidir. Film, genç bir üniversite öğrencisi olan Tsuneo ve tekerlekli sandalyeye bağımlı olan Josee adında bir genç kız arasındaki ilişkiyi merkezine alır. Tsuneo, yaz tatili boyunca Josee'ye bakıcılık yapar ve onunla zaman geçirirken, ikisi de birbirlerine olan bağlarını keşfederler. Josee'nin yaşam dolu düşleri ve Tsuneo'nun onunla geçirdiği zaman, ikisinin de hayatlarını değiştirecek derin etkiler bırakır. Josee to Tora to Sakana-tachi, duygusal derinliği ve karakter odaklı hikayesiyle izleyicilere dokunaklı bir deneyim sunar.",
-                "main_characters": ["Tsuneo Suzukawa", "Josee"],
-                "tags": ["Romance", "Drama", "Slice of Life", "Anime Film"],
-                "head_photo": "https://photos.app.goo.gl/1N8evae7nKN6xHM76",
-                "author": "Seiko Tanabe",
-                "year": "2020"
-            },
-            {
-                "name": "Howl's Moving Castle",
-                "embed_id": "fHFTxKfwopw?si=kYafI_cfMXSaVgy5",
-                "description": "Howl's Moving Castle, Hayao Miyazaki tarafından yönetilen ve Studio Ghibli tarafından yapılan, fantastik ve büyülü bir atmosfere sahip bir anime filmidir. Film, genç bir kadın olan Sophie'nin, lanetlenerek yaşlı bir kadına dönüşmesi ve sonrasında Howl adında gizemli bir büyücüye rastlamasıyla başlar. Howl, dolaşan büyülü bir kalede yaşamaktadır. Sophie, Howl'un yanında çalışmaya başlar ve kaledeki gizemli maceralara atılır. Ancak, savaşın gölgesi dünyayı sarmıştır ve Howl'un da dahil olduğu büyülü dünya tehlikededir. Sophie, Howl'un geçmişiyle yüzleşirken, kendisi de içsel gücünü keşfetmeye başlar. Howl's Moving Castle, muhteşem animasyonu, büyülü atmosferi ve derin karakterleriyle unutulmaz bir deneyim sunar.",
-                "main_characters": ["Sophie", "Howl", "Calcifer", "Markl", "Witch of the Waste", "Turnip Head"],
-                "tags": ["Fantasy", "Adventure", "Romance", "Drama", "Anime Film"],
-                "head_photo": "https://photos.app.goo.gl/PEyZhVxm7WDVBrfi7",
-                "author": "Hayao Miyazaki",
-                "year": "2004"
-            }
-    ]
+  "anime": [
+    {
+      "name": "One Piece",
+      "embed_id": "kLLeDYwQp5o?si=VypRQpe_oPHXiAAR",
+      "description": "One Piece, Eiichiro Oda tarafından yazılan ve çizilen, dünya çapında büyük bir hayran kitlesine sahip uzun soluklu bir manga ve anime serisidir. Seri, Monkey D. Luffy adlı genç bir korsanın, efsanevi One Piece hazinei arayışını konu alır. Luffy, bir grup maceracı arkadaşıyla birlikte Grand Line adı verilen tehlikeli denizlerde yolculuk eder, çeşitli tehlikelerle ve düşmanlarla karşılaşırken hem dostluklar kurar hem de güçlenir. One Piece, keşif, macera, savaş ve dostluk gibi temaları ustalıkla işlerken, geniş bir evren ve zengin karakterlerle doludur.",
+      "main_characters": [
+        "Monkey D. Luffy",
+        "Roronoa Zoro",
+        "Nami",
+        "Usopp",
+        "Sanji",
+        "Tony Tony Chopper",
+        "Nico Robin",
+        "Franky",
+        "Brook",
+        "Jinbei"
+      ],
+      "tags": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Shounen"
+      ],
+      "head_photo": "https://photos.app.goo.gl/BUMfLEX4nAoMpVFc8",
+      "author": "Eiichiro Oda",
+      "year": "1999"
+    },
+    {
+      "name": "Naruto",
+      "embed_id": "WlVxhQAgXro?si=1jbVE-nY3PxGMZ3X",
+      "description": "Naruto, Masashi Kishimoto tarafından yaratılan ve dünya çapında büyük bir popülerliğe sahip olan bir manga ve anime serisidir. Seri, Naruto Uzumaki adındaki genç bir ninja öğrencisinin hikayesini takip eder. Naruto, köyündeki diğer ninja öğrencileriyle birlikte çeşitli görevlerde ve sınavlarda rekabet ederken, kendi gücünü keşfetme ve toplumda kabul görmeyi amaçlar. Ana tema, arkadaşlık, cesaret ve kişisel gelişim etrafında dönerken, seride ninja dünyasının karmaşıklığı ve savaşlarının yanı sıra karakterlerin derin duygusal yolculukları da işlenir.",
+      "main_characters": [
+        "Naruto Uzumaki",
+        "Sasuke Uchiha",
+        "Sakura Haruno",
+        "Kakashi Hatake",
+        "Shikamaru Nara",
+        "Hinata Hyuga",
+        "Rock Lee",
+        "Neji Hyuga",
+        "Gaara"
+      ],
+      "tags": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Shounen"
+      ],
+      "head_photo": "https://photos.app.goo.gl/ia93uiguvD6hJm2VA",
+      "author": "Masashi Kishimoto",
+      "year": "2002"
+    },
+    {
+      "name": "Attack on Titan(Shingeki no Kyojin)",
+      "embed_id": "X5bY0skFp18?si=WsTwkwumHKgJ6hm5",
+      "description": "Attack on Titan, Hajime Isayama tarafından yazılan ve çizilen, distopik bir dünyada geçen popüler bir manga ve anime serisidir. Seri, insanlığın devasa yaratıklar olan Titanlar tarafından tehdit edildiği bir dünyada geçer. Ana karakterlerden Eren Yeager, Mikasa Ackerman ve Armin Arlert, surlarla çevrili son insan şehri olan ve Titanların saldırısından korunan Wall Maria'da yaşarlar. Ancak, bir gün surların yıkılmasıyla birlikte Eren'in annesi dahil birçok insan Titanlar tarafından yenilir. Bunun üzerine Eren, Mikasa ve Armin, Titanlara karşı savaşmak ve insanlığı kurtarmak için birlikte savaşmaya başlarlar. Seri, savaş, insan doğası, adalet ve kurtuluş gibi derin temaları işlerken, bol aksiyon ve gizemle doludur.",
+      "main_characters": [
+        "Eren Yeager",
+        "Mikasa Ackerman",
+        "Armin Arlert",
+        "Levi Ackerman",
+        "Erwin Smith",
+        "Annie Leonhart",
+        "Jean Kirstein",
+        "Sasha Blouse",
+        "Connie Springer"
+      ],
+      "tags": [
+        "Action",
+        "Dark Fantasy",
+        "Drama",
+        "Horror",
+        "Mystery",
+        "Shounen"
+      ],
+      "head_photo": "https://photos.app.goo.gl/YcoZbx5U2m8WUk8J7",
+      "author": "Hajime Isayama",
+      "year": "2013"
+    },
+    {
+      "name": "Demon Slayer(Kimetsu no Yaiba)",
+      "embed_id": "foxUhOErD28?si=2FDzjmzyG5uUq_eW",
+      "description": "Kimetsu no Yaiba, Koyoharu Gotouge tarafından yazılan ve çizilen, Japonya'da büyük bir fenomen haline gelen bir manga ve anime serisidir. Seri, Taisho döneminde geçen ve insanların yaratıklar olan iblislerle savaştığı bir dünyada geçer. Ana karakterlerden Tanjiro Kamado'nun ailesi bir iblis tarafından öldürülür, ancak kız kardeşi Nezuko'nun bir iblis olmasıyla hayatta kalır. Tanjiro, Nezuko'yu insan yapmayı ve ailesinin intikamını almayı amaçlayarak iblis avcısı olmaya karar verir. Yolculuğunda çeşitli iblislerle savaşırken, güçlenir ve dostluklar kurar. Kimetsu no Yaiba, aksiyon dolu sahneleri, duygusal derinliği ve karakter gelişimi ile dikkat çeker.",
+      "main_characters": [
+        "Tanjiro Kamado",
+        "Nezuko Kamado",
+        "Zenitsu Agatsuma",
+        "Inosuke Hashibira",
+        "Giyu Tomioka",
+        "Kyojuro Rengoku",
+        "Shinobu Kocho",
+        "Tengen Uzui",
+        "Mitsuri Kanroji"
+      ],
+      "tags": [
+        "Action",
+        "Adventure",
+        "Dark Fantasy",
+        "Drama",
+        "Supernatural",
+        "Shounen"
+      ],
+      "head_photo": "https://photos.app.goo.gl/oBrp5UQPry6DLoKu9",
+      "author": "Koyoharu Gotouge",
+      "year": "2019"
+    },
+    {
+      "name": "Jujutsu Kaisen",
+      "embed_id": "bXeoRnXOmDc?si=wga4-UpC73A34Wzx",
+      "description": "Jujutsu Kaisen, Gege Akutami tarafından yazılan ve çizilen, modern dünyada doğaüstü varlıklarla savaşan bir grup lanet avcısının hikayesini anlatan bir manga ve anime serisidir. Ana karakterlerden Yuji Itadori, tesadüfen antik bir laneti yutarak lanet avcıları dünyasına girmesiyle başlar. Yuji, Tokyo Metropolitan Sihrî Teknikler Okulu'na katılır ve diğer lanet avcılarıyla birlikte lanetleri avlamaya başlar. Bu sırada, kendisini yuttuğu lanetle savaşırken güçlerini keşfeder ve geliştirir. Jujutsu Kaisen, dinamik dövüş sahneleri, derin karakter gelişimi ve karanlık temalarıyla öne çıkar.",
+      "main_characters": [
+        "Yuji Itadori",
+        "Ryomen Sukuna",
+        "Megumi Fushiguro",
+        "Nobara Kugisaki",
+        "Satoru Gojo",
+        "Panda",
+        "Maki Zenin",
+        "Toge Inumaki",
+        "Kento Nanami",
+        "Aoi Todo",
+        "Suguru Geto"
+      ],
+      "tags": [
+        "Action",
+        "Supernatural",
+        "Dark Fantasy",
+        "Shounen",
+        "Horror",
+        "School"
+      ],
+      "head_photo": "https://photos.app.goo.gl/8RwkuiMiCryVKbZa8",
+      "author": "Gege Akutami",
+      "year": "2020"
+    },
+    {
+      "name": "My Hero Academia",
+      "embed_id": "gnid6aNQO6Y?si=s_DEx03UyWTdB8GX",
+      "description": "My Hero Academia, Kohei Horikoshi tarafından yazılan ve çizilen, süper güçlere sahip kahramanların ve kötülerin mücadelesini konu alan bir manga ve anime serisidir. Seri, Deku adında güçsüz bir genç olan Izuku Midoriya'nın, en büyük kahraman All Might'ın güçlerini devralarak süper kahraman olma yolundaki macerasını anlatır. Deku, UA Lisesi'nde eğitim alırken, diğer öğrencilerle birlikte süper güçlerini kontrol etmeyi öğrenir ve kötülere karşı savaşır. My Hero Academia, klasik kahramanlık temasını modern bir tarzda işlerken, arkadaşlık, cesaret ve kişisel büyüme gibi evrensel temaları da ele alır.",
+      "main_characters": [
+        "Izuku Midoriya (Deku)",
+        "Katsuki Bakugo",
+        "Shoto Todoroki",
+        "Ochaco Uraraka",
+        "Tenya Iida",
+        "Tsuyu Asui",
+        "All Might",
+        "Eraserhead (Shota Aizawa)",
+        "Endeavor"
+      ],
+      "tags": [
+        "Action",
+        "Superpower",
+        "Shounen",
+        "School",
+        "Comedy",
+        "Drama"
+      ],
+      "head_photo": "https://photos.app.goo.gl/uvS4gUNAudtXou1r6",
+      "author": "Kohei Horikoshi",
+      "year": "2014"
+    },
+    {
+      "name": "Black Clover",
+      "embed_id": "LXwvVhdWH4s?si=9YUaOevvEmlXsdf5",
+      "description": "Black Clover, Yuki Tabata tarafından yazılan ve çizilen, büyü gücü olmayan bir genç olan Asta'nın, büyü gücü olan ve Kral Büyücü olarak bilinen efsanevi sihirbazı taklit etme hayaliyle dolu bir dünyada geçen bir manga ve anime serisidir. Asta, bir gün sihir kitabı Grimoire adını taşıyan bir kitap bulur ve içinden güçler alır. Arkadaşı Yuno da benzer şekilde bir Grimoire bulur ve güçler kazanır. Asta ve Yuno, sihirli bir şövalye olmak için Krallık Şövalyeleri'ne katılmak için yola çıkarlar. Black Clover, dostluk, azim ve kişisel gelişim gibi temaları işlerken, büyüleyici dünyası ve heyecan verici dövüş sahneleriyle dikkat çeker.",
+      "main_characters": [
+        "Asta",
+        "Yuno",
+        "Noelle Silva",
+        "Yami Sukehiro",
+        "Magna Swing",
+        "Luck Voltia",
+        "Vanessa Enoteca",
+        "Finral Roulacase",
+        "Secre Swallowtail"
+      ],
+      "tags": [
+        "Action",
+        "Adventure",
+        "Magic",
+        "Shounen",
+        "Fantasy",
+        "Comedy"
+      ],
+      "head_photo": "https://photos.app.goo.gl/XzgLP3hm5e12c7Ye9",
+      "author": "Yuki Tabata",
+      "year": "2015"
+    },
+    {
+      "name": "Fullmetal Alchemist: Brotherhood",
+      "embed_id": "kKtNiPpJy0A?si=uBn9fid_vJ4P9bB9",
+      "description": "Fullmetal Alchemist: Brotherhood, Hiromu Arakawa tarafından yazılan ve çizilen, alkiminin gücü ve insan doğasının karmaşıklığı üzerine derin bir hikaye anlatan bir manga ve anime serisidir. Seri, Elric kardeşler Edward ve Alphonse'un, annelerini geri getirmek için yaptıkları yanlış simyanın ardından yaşadıkları trajik olayları konu alır. Edward, bir simyacı olarak, Tam Metal Simyacı olarak bilinirken, Alphonse'un ruhu bir zırhın içine hapis edilmiştir. Kardeşler, kaybettikleri şeyleri geri almak ve yaptıkları hataları telafi etmek için bir yolculuğa çıkarlar. Fullmetal Alchemist: Brotherhood, güçlü kardeşlik bağları, insanlık ve kurban verme gibi evrensel temaları işlerken, zengin bir dünya ve derin karakter gelişimi sunar.",
+      "main_characters": [
+        "Edward Elric",
+        "Alphonse Elric",
+        "Roy Mustang",
+        "Winry Rockbell",
+        "Riza Hawkeye",
+        "Scar",
+        "Van Hohenheim",
+        "Maes Hughes",
+        "Ling Yao"
+      ],
+      "tags": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Fantasy",
+        "Shounen",
+        "Alchemy"
+      ],
+      "head_photo": "https://photos.app.goo.gl/DS8xBB1MjQGzufAXA",
+      "author": "Hiromu Arakawa",
+      "year": "2009"
+    },
+    {
+      "name": "Gintama",
+      "embed_id": "-YgeQvUfPJk?si=SdVDNdES6jWfOorw",
+      "description": "Gintama, Hideaki Sorachi tarafından yazılan ve çizilen, absürt komedi, aksiyon ve dramatik öğelerin harmanlandığı benzersiz bir manga ve anime serisidir. Seri, Edo dönemi Japonya'sında uzaylılar tarafından işgal edilmiş bir dünyada geçer. Ana karakter Gintoki Sakata, samuraylık mesleğini bırakmış bir özgür ruh olarak yaşar. Gintoki, arkadaşları Shinpachi Shimura ve Kagura ile birlikte çeşitli işlerde çalışarak hayatlarını sürdürürken, zaman zaman işler karmaşıklaşır ve eski düşmanlarla karşılaşırlar. Gintama, esprili diyaloglar, parodi unsurları ve duygusal anlarla dolu bir seridir ve genellikle absürd olaylarla dolu olan ama aynı zamanda derin duygusal derinlikler de sunan bir hikaye sunar.",
+      "main_characters": [
+        "Gintoki Sakata",
+        "Shinpachi Shimura",
+        "Kagura",
+        "Kotaro Katsura",
+        "Toshiro Hijikata",
+        "Sougo Okita",
+        "Kyuubei Yagyu",
+        "Tae Shimura",
+        "Sadaharu"
+      ],
+      "tags": [
+        "Action",
+        "Comedy",
+        "Parody",
+        "Sci-Fi",
+        "Samurai",
+        "Shounen"
+      ],
+      "head_photo": "https://photos.app.goo.gl/3xMrfZbVbjLUdfeC6",
+      "author": "Hideaki Sorachi",
+      "year": "2006"
+    },
+    {
+      "name": "One Punch Man",
+      "embed_id": "uTQwz35LiNk?si=k9mmwKvQ9Q4b0g6S",
+      "description": "One Punch Man, ONE tarafından yaratılan ve Yusuke Murata tarafından çizilen, süper kahraman olma arzusuyla yanıp tutuşan ancak her düşmanı tek yumrukla alt eden Saitama'nın hikayesini anlatan bir manga ve anime serisidir. Saitama, sıradan bir görünüşe sahip olsa da, antrenmanının sonucunda inanılmaz bir güce ve dayanıklılığa sahiptir. Ancak, bu güç onu tekdüze bir yaşama sürüklemiştir, çünkü hiçbir rakibi onunla başa çıkamamaktadır. Saitama, kendisine çeşitli düşmanlar ve süper kahramanlarla karşılaştığı, bazen komik, bazen de epik olan maceralarında genellikle can sıkıntısından muzdarip bir şekilde yer alır. One Punch Man, süper kahraman türünü alaya alırken aynı zamanda aksiyon ve mizahı ustaca birleştirir.",
+      "main_characters": [
+        "Saitama",
+        "Genos",
+        "Speed-o'-Sound Sonic",
+        "Mumen Rider",
+        "Bang",
+        "Tatsumaki",
+        "King",
+        "Metal Bat",
+        "Fubuki"
+      ],
+      "tags": [
+        "Action",
+        "Comedy",
+        "Parody",
+        "Superpower",
+        "Seinen",
+        "Sci-Fi"
+      ],
+      "head_photo": "https://photos.app.goo.gl/ytjiCLTiWB9yZxPw6",
+      "author": "ONE",
+      "year": "2009"
+    },
+    {
+      "name": "Your Lie in April(Shigatsu wa Kimi no Uso)",
+      "embed_id": "YMgcBNRurJY?si=PmkljdIw2tcljTLw",
+      "description": "Your Lie in April, Naoshi Arakawa tarafından yazılan ve çizilen, müzik ve duygusal temasıyla dikkat çeken bir manga ve anime serisidir. Seri, müziğe yetenekli olan ancak duygusal olarak kırılgan bir genç olan Kousei Arima'nın hikayesini anlatır. Kousei, annesinin ölümünden sonra piyanoya olan yeteneğini kaybetmiş ve müziği duyamaz hale gelmiştir. Ancak, hayatına giren güçlü ve renkli bir keman virtüözü olan Kaori Miyazono, Kousei'nin hayatını değiştirir. Kaori'nin cesareti ve tutkusu, Kousei'nin müziğe olan sevgisini yeniden keşfetmesine yardımcı olur. Ancak, Kaori'nin kendi sağlık sorunlarıyla başa çıkmasıyla birlikte, ikisinin de hayatında zorlu zamanlar beklemektedir. Your Lie in April, müziğin gücü, aşkın karmaşıklığı ve kişisel büyüme üzerine dokunaklı bir hikaye sunar.",
+      "main_characters": [
+        "Kousei Arima",
+        "Kaori Miyazono",
+        "Tsubaki Sawabe",
+        "Ryota Watari",
+        "Emi Igawa",
+        "Hiroko Seto",
+        "Nagi Aiza",
+        "Saki Arima",
+        "Hiroko Seto"
+      ],
+      "tags": [
+        "Drama",
+        "Romance",
+        "Music",
+        "Slice of Life",
+        "Shounen"
+      ],
+      "head_photo": "https://photos.app.goo.gl/agceT7mFX1VGQtTp8",
+      "author": "Naoshi Arakawa",
+      "year": "2011"
+    },
+    {
+      "name": "Bleach",
+      "embed_id": "hc8hW26vuI4?si=Vg5dr3CA9ymeZxLj",
+      "description": "Bleach, Tite Kubo tarafından yazılan ve çizilen, ruhlarla savaşan bir genç olan Ichigo Kurosaki'nin hikayesini anlatan bir manga ve anime serisidir. Ichigo, beklenmedik bir şekilde Rukia Kuchiki adında bir Shinigami ile tanışır ve onun güçlerini kazanır. Artık Hollow adı verilen kötü ruhları avlamak ve ruhları ölüler diyarına götürmekle görevlidir. Ichigo, Rukia'nın görevini yerine getirirken, insan dünyasını ve ruh dünyasını tehdit eden güçlü düşmanlarla karşılaşır. Bu süreçte, dostluklar kurar, güçlenir ve geçmişiyle yüzleşir. Bleach, aksiyon dolu savaş sahneleri, karmaşık karakterler ve mistik öğelerle dolu bir evren sunar.",
+      "main_characters": [
+        "Ichigo Kurosaki",
+        "Rukia Kuchiki",
+        "Orihime Inoue",
+        "Uryu Ishida",
+        "Renji Abarai",
+        "Byakuya Kuchiki",
+        "Kenpachi Zaraki",
+        "Toshiro Hitsugaya",
+        "Grimmjow Jaegerjaquez"
+      ],
+      "tags": [
+        "Action",
+        "Adventure",
+        "Supernatural",
+        "Shounen",
+        "Fantasy",
+        "Drama"
+      ],
+      "head_photo": "https://photos.app.goo.gl/vK5bpknZjETpjwkZ9",
+      "author": "Tite Kubo",
+      "year": "2001"
+    },
+    {
+      "name": "Fate/Stay Night Movie: Unlimited Blade Works",
+      "embed_id": "kU3eBLS_3Oc?si=8T7uIJKxxWNSo1Ke",
+      "description": "Fate/Stay Night Movie: Unlimited Blade Works, Fate/Stay Night serisinin bir parçası olan bir anime filmidir. Film, büyülü bir mücadele olan Holy Grail War'ın bir versiyonunu anlatır. Ana karakter Shirou Emiya, Holy Grail War'a katılan büyücülerden biridir ve kendi dileğiyle savaşa katılmıştır. Ancak, kendini korumak ve sevdiklerini kurtarmak için mücadele ederken, gerçek niyetlerini ve arzularını keşfeder. Filmde, Holy Grail War'ın gizemleri ve tehlikeleriyle dolu epik savaş sahneleri ve karakterlerin derinlikli hikayeleri bulunur. Fate/Stay Night Movie: Unlimited Blade Works, aksiyon ve fantastik unsurlarla dolu heyecan verici bir seridir.",
+      "main_characters": [
+        "Shirou Emiya",
+        "Rin Tohsaka",
+        "Archer",
+        "Saber",
+        "Illyasviel von Einzbern",
+        "Gilgamesh",
+        "Lancer",
+        "Rider",
+        "Assassin"
+      ],
+      "tags": [
+        "Action",
+        "Fantasy",
+        "Supernatural",
+        "Drama",
+        "Romance",
+        "Anime Film"
+      ],
+      "head_photo": "https://photos.app.goo.gl/1k2HnnvfCdUq16NT7",
+      "author": "Kinoko Nasu",
+      "year": "2014"
+    },
+    {
+      "name": "Fate/Zero",
+      "embed_id": "Lnj7agXvZ88?si=qaX8a0EZhFg7ojXX",
+      "description": "Fate/Zero, Gen Urobuchi tarafından yazılan bir light novel serisinden uyarlanan, Fate serisinin bir parçası olan bir anime serisidir. Hikaye, Kiritsugu Emiya gibi bir dizi büyücünün, Holy Grail War adı verilen bir savaşta bir araya gelmesini ve büyülü kadeh için rekabet etmesini konu alır. Bu savaş, yedi büyücü ve onların ruh çağırma hizmetkârları arasında gerçekleşir. Ancak, her katılımcının kendi amacı ve niyeti vardır. Kiritsugu gibi birçok karakter, kendi geçmişi ve idealleriyle yüzleşirken, savaşın gerçek yüzü ortaya çıkar. Fate/Zero, karmaşık karakter ilişkileri, etkileyici aksiyon sahneleri ve derin felsefi temaları ustaca bir araya getirir.",
+      "main_characters": [
+        "Kiritsugu Emiya",
+        "Saber",
+        "Rider",
+        "Waver Velvet",
+        "Archer",
+        "Kirei Kotomine",
+        "Lancer",
+        "Berserker",
+        "Caster"
+      ],
+      "tags": [
+        "Action",
+        "Dark Fantasy",
+        "Supernatural",
+        "Drama",
+        "Thriller",
+        "Seinen"
+      ],
+      "head_photo": "https://photos.app.goo.gl/n6KmvghEsYH1X5qC6",
+      "author": "Gen Urobuchi",
+      "year": "2006"
+    },
+    {
+      "name": "Spy x Family",
+      "embed_id": "HUtSylZxFcI?si=8jA22-dyP7ULXNwG",
+      "description": "Spy x Family, Tatsuya Endo tarafından yazılan ve çizilen, casusluk, aksiyon ve komedi unsurlarını içeren bir manga serisidir. Hikaye, Dünya Savaşı'ndan ilham alan bir soğuk savaş döneminde geçer ve ana karakterlerden biri olan Twilight adlı bir casusun etrafında döner. Twilight, görevi gereği bir aileyi kurması gerekmektedir ve bu amaçla bir yetimhaneden bir kız olan Anya'yı evlat edinir. Ancak, Anya'nın özel yetenekleri olduğu ortaya çıkar ve Twilight'ın görevi daha da karmaşık hale gelir. Daha sonra, Twilight bir kadın olan Yor Briar ile evlenir, ancak onun da kendine ait bir sır sakladığı ortaya çıkar. Bu üçlü, bir araya gelerek hem aile olmayı hem de sırlarını korumayı öğrenirler. Spy x Family, gizemli casusluk dünyasını eğlenceli bir aile hikayesiyle birleştirirken, mizah ve duygusal anlarla da dikkat çeker.",
+      "main_characters": [
+        "Twilight",
+        "Yor Briar",
+        "Anya Forger"
+      ],
+      "tags": [
+        "Action",
+        "Comedy",
+        "Slice of Life",
+        "Spy",
+        "Shounen"
+      ],
+      "head_photo": "https://photos.app.goo.gl/4JDT2a3EAJDjrDuJ8",
+      "author": "Tatsuya Endo",
+      "year": "2019"
+    },
+    {
+      "name": "Chainsaw Man",
+      "embed_id": "46te23Xo4iQ?si=ETR95svBVeVvKWCp",
+      "description": "Chainsaw Man, Tatsuki Fujimoto tarafından yazılan ve çizilen, karanlık ve çılgın bir dünyada geçen bir manga serisidir. Hikaye, yoksul bir yaşam süren Denji adındaki genç bir adamın etrafında döner. Denji, babasının borçlarını ödemek ve hayatta kalmak için şeytan avcısı olarak çalışır. Ancak, bir gün şeytanlarla olan mücadelesi sonucunda hayatı kökten değişir. Denji, bir şeytan köpeği olan Pochita ile birleşerek Chainsaw Man adı verilen bir varlığa dönüşür. Bu değişim, Denji'yi hem insan hem de şeytan dünyasında çeşitli tehlikelerle karşı karşıya getirir. Chainsaw Man, çılgın ve vahşi aksiyon sahneleriyle dolu, sıradışı bir hikaye sunar.",
+      "main_characters": [
+        "Denji",
+        "Power",
+        "Aki Hayakawa",
+        "Makima",
+        "Pochita",
+        "Kishibe"
+      ],
+      "tags": [
+        "Action",
+        "Dark Fantasy",
+        "Horror",
+        "Supernatural",
+        "Seinen"
+      ],
+      "head_photo": "https://photos.app.goo.gl/sDgQfj9XaxAVTni88",
+      "author": "Tatsuki Fujimoto",
+      "year": "2018"
+    },
+    {
+      "name": "Suzume no Tojimari",
+      "embed_id": "EB90M9d_-bk?si=3j0Fbeq9aNe8MSpU",
+      "description": "Suzume no Tojimari, Mika Yamamori tarafından yazılan ve çizilen bir manga serisidir. Hikaye, lise öğrencisi Suzume Kikushima'nın etrafında döner. Suzume, zorbalık ve yalnızlıkla dolu bir geçmişe sahiptir ve bu nedenle insanlarla ilişki kurmaktan kaçınır. Ancak, yeni okuluna başladığında, kendisini dikkat çekici ve karizmatik bir sınıf arkadaşı olan Mamura Kichiyo'nun ilgisine çekilmiş bulur. İkisi arasında bir yakınlık gelişirken, Suzume'nin geçmişiyle ve duygularıyla yüzleşmesi gerekecektir. Suzume no Tojimari, ergenlik dönemindeki karmaşık duyguları, arkadaşlık ve ilk aşkı ele alan dokunaklı bir romantik hikaye sunar.",
+      "main_characters": [
+        "Suzume Kikushima",
+        "Mamura Kichiyo",
+        "Daiki Mamura",
+        "Yuyuka Nekota",
+        "Togyu Kuzu",
+        "Yuyuka Kikushima"
+      ],
+      "tags": [
+        "Romance",
+        "Slice of Life",
+        "School",
+        "Drama",
+        "Shoujo"
+      ],
+      "head_photo": "https://photos.app.goo.gl/WSYwPapp9LrkQn6b9",
+      "author": "Mika Yamamori",
+      "year": "2017"
+    },
+    {
+      "name": "Kimi no Na wa.",
+      "embed_id": "A1QGse7PSII?si=WcRznpWn63tmIn7s",
+      "description": "Kimi no Na wa., Makoto Shinkai tarafından yazılan ve yönetilen, popüler ve beğenilen bir anime filmidir. Hikaye, Mitsuha Miyamizu adında bir kız ve Taki Tachibana adında bir erkek arasında geçiş yapan bir beden değişimi fenomenini konu alır. Mitsuha, bir dağ kasabasında yaşayan geleneksel bir aileye mensuptur, Taki ise Tokyo'da yaşayan modern bir lisedir. İkisi, birbirlerinin hayatlarında belirli günlerde uyandıklarında karşı cinsten bir bedende bulurlar kendilerini. Bu durum, ikisinin hayatlarını ve ilişkilerini derinden etkiler. Ancak, bu değişim sadece fiziksel değil, aynı zamanda duygusal bir bağ kurmalarına da olanak tanır. Kimi no Na wa., duygusal derinlik, görsel şölen ve sıra dışı bir hikaye anlatımıyla öne çıkar.",
+      "main_characters": [
+        "Mitsuha Miyamizu",
+        "Taki Tachibana"
+      ],
+      "tags": [
+        "Romance",
+        "Fantasy",
+        "Drama",
+        "Slice of Life",
+        "Supernatural",
+        "Anime Film"
+      ],
+      "head_photo": "https://photos.app.goo.gl/JTzAe5WZbjUwGPZ87",
+      "author": "Makoto Shinkai",
+      "year": "2016"
+    },
+    {
+      "name": "Tenki no Ko",
+      "embed_id": "R2l-AncgvPw?si=VXYDDM0wI_ROxNvp",
+      "description": "Tenki no Ko, Makoto Shinkai tarafından yazılan ve yönetilen, atmosferik görselleri ve dokunaklı hikayesiyle dikkat çeken bir anime filmidir. Hikaye, Tokyo'dan kaçıp bir adaya sığınan ve burada gizemli bir hizmete başlayan genç bir adam olan Hodaka Morishima ile tanışan Hina Amano adında bir kız arasındaki ilişkiyi anlatır. Hina, yağmur yağdığında hava durumunu kontrol edebilen gizemli bir güce sahiptir. Bu güç, onu ve Hodaka'yı hem mucizevi hem de tehlikeli bir maceraya sürükler. Film, doğanın gücüyle insan ilişkilerini, umudu ve yaşamın döngüsünü derinlemesine keşfederken, karakterlerin duygusal gelişimini de ele alır. Tenki no Ko, görsel şöleni ve etkileyici atmosferiyle izleyiciyi büyüler.",
+      "main_characters": [
+        "Hodaka Morishima",
+        "Hina Amano"
+      ],
+      "tags": [
+        "Romance",
+        "Fantasy",
+        "Drama",
+        "Slice of Life",
+        "Supernatural",
+        "Anime Film"
+      ],
+      "head_photo": "https://photos.app.goo.gl/HbR7cJ6kcB6BTpa46",
+      "author": "Makoto Shinkai",
+      "year": "2019"
+    },
+    {
+      "name": "Josee to Tora to Sakana-tachi",
+      "embed_id": "8kpROwp0ino?si=_VdY1NK6IoWo2MaC",
+      "description": "Josee to Tora to Sakana-tachi, Seiko Tanabe'nin Josee, the Tiger and the Fish adlı kısa hikayesinden uyarlanan, bir genç adamın engelli bir genç kızla olan ilişkisini anlatan duygusal bir anime filmidir. Film, genç bir üniversite öğrencisi olan Tsuneo ve tekerlekli sandalyeye bağımlı olan Josee adında bir genç kız arasındaki ilişkiyi merkezine alır. Tsuneo, yaz tatili boyunca Josee'ye bakıcılık yapar ve onunla zaman geçirirken, ikisi de birbirlerine olan bağlarını keşfederler. Josee'nin yaşam dolu düşleri ve Tsuneo'nun onunla geçirdiği zaman, ikisinin de hayatlarını değiştirecek derin etkiler bırakır. Josee to Tora to Sakana-tachi, duygusal derinliği ve karakter odaklı hikayesiyle izleyicilere dokunaklı bir deneyim sunar.",
+      "main_characters": [
+        "Tsuneo Suzukawa",
+        "Josee"
+      ],
+      "tags": [
+        "Romance",
+        "Drama",
+        "Slice of Life",
+        "Anime Film"
+      ],
+      "head_photo": "https://photos.app.goo.gl/1N8evae7nKN6xHM76",
+      "author": "Seiko Tanabe",
+      "year": "2020"
+    },
+    {
+      "name": "Howl's Moving Castle",
+      "embed_id": "fHFTxKfwopw?si=kYafI_cfMXSaVgy5",
+      "description": "Howl's Moving Castle, Hayao Miyazaki tarafından yönetilen ve Studio Ghibli tarafından yapılan, fantastik ve büyülü bir atmosfere sahip bir anime filmidir. Film, genç bir kadın olan Sophie'nin, lanetlenerek yaşlı bir kadına dönüşmesi ve sonrasında Howl adında gizemli bir büyücüye rastlamasıyla başlar. Howl, dolaşan büyülü bir kalede yaşamaktadır. Sophie, Howl'un yanında çalışmaya başlar ve kaledeki gizemli maceralara atılır. Ancak, savaşın gölgesi dünyayı sarmıştır ve Howl'un da dahil olduğu büyülü dünya tehlikededir. Sophie, Howl'un geçmişiyle yüzleşirken, kendisi de içsel gücünü keşfetmeye başlar. Howl's Moving Castle, muhteşem animasyonu, büyülü atmosferi ve derin karakterleriyle unutulmaz bir deneyim sunar.",
+      "main_characters": [
+        "Sophie",
+        "Howl",
+        "Calcifer",
+        "Markl",
+        "Witch of the Waste",
+        "Turnip Head"
+      ],
+      "tags": [
+        "Fantasy",
+        "Adventure",
+        "Romance",
+        "Drama",
+        "Anime Film"
+      ],
+      "head_photo": "https://photos.app.goo.gl/PEyZhVxm7WDVBrfi7",
+      "author": "Hayao Miyazaki",
+      "year": "2004"
+    }
+  ]
 }
