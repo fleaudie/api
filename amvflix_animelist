@@ -531,7 +531,7 @@
 
 "genre": [
     {
-      "genres": [
+      
       "Action" : "https://photos.app.goo.gl/MQtvpKCDJspyPsVv8",
       "Adventure" : "https://photos.app.goo.gl/tSFxK1Ppsv3Eb9mu6",
       "Cars" : "https://photos.app.goo.gl/qghgfFDvvri1cMZ17",
@@ -573,5 +573,5 @@
       "Yuri" : "https://photos.app.goo.gl/eED3WGr5yLXF3X657"
       ]
     } 
-  ]
+  
 }
