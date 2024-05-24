@@ -26,7 +26,15 @@
       ],
       "head_photo": "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/cover_photo%2Fone_piece_head.jpg?alt=media&token=726576aa-6102-4b94-9bb9-279fee983d37",
       "author": "Eiichiro Oda",
-      "year": "1999"
+      "year": "1999",
+      "logo": "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_logo%2Fone_piece_logo.png?alt=media&token=17830aee-5a47-482b-b86e-d3a8ac1b68b3",
+      "detail_photos": [
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fone_piece_1.jpg?alt=media&token=b4816c97-8e2c-41a3-baee-a37a1825f557",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fone_piece_2.jpg?alt=media&token=bcf816d9-0f24-4745-b72f-560ba7021559",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fone_piece_3.jpg?alt=media&token=c73adb5b-a22f-45e1-8b3f-ebeccd764859",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fone_piece_4.jpg?alt=media&token=24f593d2-c51c-4833-bf52-32a941fcd193",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fone_piece_5.jpg?alt=media&token=03fbe6e6-074c-415f-a722-7e775c98a4da"
+      ]
     },
     {
       "name": "Naruto",
@@ -53,7 +61,15 @@
       ],
       "head_photo": "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/cover_photo%2Fnaruto_head.jpg?alt=media&token=bbe8ca7b-a471-480d-bc9b-c8c183af7a6c",
       "author": "Masashi Kishimoto",
-      "year": "2002"
+      "year": "2002",
+      "logo": "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_logo%2Fnaruto_logo.png?alt=media&token=1e895791-7704-49fe-a3c4-e7f4ae540f09",
+      "detail_photos": [
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fnaruto_1.png?alt=media&token=3a713a07-2897-485d-94da-158b800b597c",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fnaruto_2.png?alt=media&token=56c7eacd-36bf-49f0-b3ff-939a4cce6002",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fnaruto_3.png?alt=media&token=92d79e2d-f355-4ed4-a853-4d2d5ca56389",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fnaruto_4.png?alt=media&token=d7aaf6c8-e65b-466f-b678-59f61ed4542e",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fnaruto_5.png?alt=media&token=37f785b6-15e2-4368-9191-58b1e22b89cd"
+      ]
     },
     {
       "name": "Attack on Titan",
@@ -80,7 +96,15 @@
       ],
       "head_photo": "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/cover_photo%2Faot_head.jpg?alt=media&token=5b56d9a2-1e26-47db-9a34-6fa91214c8cd",
       "author": "Hajime Isayama",
-      "year": "2013"
+      "year": "2013",
+      "logo": "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_logo%2Faot_logo.png?alt=media&token=b9e4dd36-9586-4cac-abea-00762be62a48",
+      "detail_photos": [
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Faot_1.jpeg?alt=media&token=12c3dc03-3b04-4261-b19d-5608dca526ce",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Faot_2.jpg?alt=media&token=8530f54d-dcbd-470e-8185-cfe5eb5c5a70",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Faot_3.jpg?alt=media&token=8b5627e7-9497-4f46-81e6-f70b2bce3ec0",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Faot_4.jpg?alt=media&token=b8e5a956-a981-4c76-b2b5-24a4e0d2b6e3",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Faot_5.jpg?alt=media&token=7f4bf572-9d77-4519-968c-4c17742a5a5e"
+      ]
     },
     {
       "name": "Demon Slayer",
@@ -107,7 +131,15 @@
       ],
       "head_photo": "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/cover_photo%2Fdemon_slayer_head.jpg?alt=media&token=beef0396-b4aa-452e-bdb1-d41499aeff89",
       "author": "Koyoharu Gotouge",
-      "year": "2019"
+      "year": "2019",
+      "logo": "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_logo%2Fdemon_slayer_logo.png?alt=media&token=1046de93-38d8-4909-8e9e-29b0fa1baa9a",
+      "detail_photos": [
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fdemon_slayer_1.jpeg?alt=media&token=7d3fdbd5-5951-4ddd-93e0-b32505deae56",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fdemon_slayer_2.jpeg?alt=media&token=a829cc32-1251-4aef-8fc6-49eaf8ca2ca3",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fdemon_slayer_3.jpeg?alt=media&token=e88297dd-383f-48ba-8f6e-b16a5decfeda",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fdemon_slayer_4.jpeg?alt=media&token=3c7c1ec9-470a-4a2c-8b2c-7421dd448d4d",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fdemon_slayer_5.jpeg?alt=media&token=f4545cd1-2a70-4540-843f-41b33631e135"
+      ]
     },
     {
       "name": "Jujutsu Kaisen",
@@ -136,7 +168,15 @@
       ],
       "head_photo": "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/cover_photo%2Fjujutsu_kaisen_head.jpg?alt=media&token=dc110927-3130-4d7c-89c2-1b96045d33c0",
       "author": "Gege Akutami",
-      "year": "2020"
+      "year": "2020",
+      "logo": "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_logo%2Fjujutsu_kaisen_logo.png?alt=media&token=df952b59-56ac-4b0e-a2d5-3ce67881d0ca",
+      "detail_photos": [
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fjujutsu_kaisen_1.jpg?alt=media&token=53c97036-c1ef-4249-a5c6-ab5ff1a8a571",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fjujutsu_kaisen_2.jpg?alt=media&token=2d550c7e-e619-45a1-a04f-b9b583ea9939",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fjujutsu_kaisen_3.jpg?alt=media&token=f4cd7dd4-1e95-4926-a9d2-cb8914400eb9",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fjujutsu_kaisen_4.jpg?alt=media&token=4619fbff-d137-4c37-87a7-5b2c2c385cde",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fjujutsu_kaisen_5.jpg?alt=media&token=054e43a5-0b88-4502-8459-220f65342805"
+      ]
     },
     {
       "name": "My Hero Academia",
@@ -163,7 +203,15 @@
       ],
       "head_photo": "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/cover_photo%2Fmha_head.jpeg?alt=media&token=5540e57f-e45b-4c29-b36b-f756defbe71d",
       "author": "Kohei Horikoshi",
-      "year": "2014"
+      "year": "2014",
+      "logo": "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_logo%2Fmha_logo.png?alt=media&token=5996cd70-26de-44aa-9eab-049bae49e8c9",
+      "detail_photos": [
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fmha_1.jpg?alt=media&token=6e197af6-7d29-4e06-8dd7-e6d5541db660",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fmha_2.jpg?alt=media&token=f265d9d9-d076-4323-83d2-c508511c03bb",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fmha_3.jpg?alt=media&token=9f575b18-aec9-4a6e-bad1-2cf54f7ad058",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fmha_4.jpg?alt=media&token=c45ef826-b18e-4fd8-bbff-f0cac18be6c7",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fmha_5.jpg?alt=media&token=17307e27-5f1c-45ad-a6f5-143bf8849de5"
+      ]
     },
     {
       "name": "Black Clover",
@@ -190,7 +238,15 @@
       ],
       "head_photo": "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/cover_photo%2Fblack_clover_head.jpg?alt=media&token=a01005e3-5e54-4937-8251-19ce3eab9c4e",
       "author": "Yuki Tabata",
-      "year": "2015"
+      "year": "2015",
+      "logo": "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_logo%2Fblack_clover_logo.png?alt=media&token=5368ff67-c0a1-4dc5-b6a6-ab63a35e0e42",
+      "detail_photos": [
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fblack_clover_1.jpeg?alt=media&token=d4c02fd5-f87f-41a8-96f2-b62f530f98fa",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fblack_clover_2.jpeg?alt=media&token=c21ec8b0-3097-443a-985c-d6ee1cf74b59",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fblack_clover_3.jpeg?alt=media&token=40ce811c-c3de-4eeb-a268-3fd00bb486ba",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fblack_clover_4.jpeg?alt=media&token=3ece463b-681b-4e47-9231-807f96279d25",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fblack_clover_5.jpeg?alt=media&token=391d0916-f8c9-4bfa-be16-1ff349e8fc1e"
+      ]
     },
     {
       "name": "Fullmetal Alchemist: Brotherhood",
@@ -217,7 +273,15 @@
       ],
       "head_photo": "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/cover_photo%2Ffma_head.jpg?alt=media&token=77f92c3a-9ce1-4507-bab9-5b68f05982d0",
       "author": "Hiromu Arakawa",
-      "year": "2009"
+      "year": "2009",
+      "logo": "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_logo%2Ffma_logo.png?alt=media&token=7ed607c5-9323-48ab-8509-6ca0a880962b",
+      "detail_photos": [
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Ffma_1.jpg?alt=media&token=417bf125-4da5-496d-96cc-d770c9e40fd6",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Ffma_2.jpg?alt=media&token=e41f0a57-aabb-41d2-a7f3-8021bdf82659",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Ffma_3.jpg?alt=media&token=571be010-304d-4347-ad20-fea2cb115407",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Ffma_4.jpg?alt=media&token=ea4b5954-9dc8-47a2-b58a-0cb864fdc626",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Ffma_5.jpg?alt=media&token=f45ef043-d9ee-48ec-81d9-121656f5fac3"
+      ]
     },
     {
       "name": "Gintama",
@@ -244,7 +308,15 @@
       ],
       "head_photo": "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/cover_photo%2Fgintama_head.jpg?alt=media&token=17455684-5ea4-4faf-81cd-e912b5412994",
       "author": "Hideaki Sorachi",
-      "year": "2006"
+      "year": "2006",
+      "logo": "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_logo%2Fgintama_logo.png?alt=media&token=bf617b49-7a76-4bb9-bb86-197934913bad",
+      "detail_photos": [
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fgintama_1.png?alt=media&token=cf5092f9-83bb-4e44-a7c6-795ec3fe22f2",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fgintama_2.png?alt=media&token=15f197aa-266d-43ed-8e2b-6f431b45cd8a",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fgintama_3.png?alt=media&token=e281bf8e-19d3-4eb0-8d9d-cdec42d76c80",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fgintama_4.png?alt=media&token=34af1e9c-2e93-430b-9a24-0322f0747d7e",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fgintama_5.png?alt=media&token=bb3a93fe-051c-4a79-9604-9edf4f6bea02"
+      ]
     },
     {
       "name": "One Punch Man",
@@ -271,10 +343,18 @@
       ],
       "head_photo": "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/cover_photo%2Fopm_head.jpg?alt=media&token=26ceab51-7d76-4d80-a4ee-0a4a94439ea3",
       "author": "ONE",
-      "year": "2009"
+      "year": "2009",
+      "logo": "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_logo%2Fone_punch_man_logo.png?alt=media&token=d2d74f9a-b7de-4ea0-994a-86299671af32",
+      "detail_photos": [
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fopm_1.jpg?alt=media&token=31e11e70-a426-4c79-9f24-e1396ccdd11c",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fopm_2.jpg?alt=media&token=ec18e406-f55d-47da-8de0-9d04ba00486c",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fopm_3.jpeg?alt=media&token=3ea88910-4da7-4640-85a8-6e623bfaa28b",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fopm_4.jpg?alt=media&token=bbf67f4c-e597-4de6-95ec-899a34fb2e67",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fopm_5.jpg?alt=media&token=d7e9afb5-f631-4fbb-8da6-475743a62276"
+      ]
     },
     {
-      "name": "Your Lie in April(Shigatsu wa Kimi no Uso)",
+      "name": "Your Lie in April",
       "embed_id": "YMgcBNRurJY?si=PmkljdIw2tcljTLw",
       "description": "Your Lie in April, Naoshi Arakawa tarafından yazılan ve çizilen, müzik ve duygusal temasıyla dikkat çeken bir manga ve anime serisidir. Seri, müziğe yetenekli olan ancak duygusal olarak kırılgan bir genç olan Kousei Arima'nın hikayesini anlatır. Kousei, annesinin ölümünden sonra piyanoya olan yeteneğini kaybetmiş ve müziği duyamaz hale gelmiştir. Ancak, hayatına giren güçlü ve renkli bir keman virtüözü olan Kaori Miyazono, Kousei'nin hayatını değiştirir. Kaori'nin cesareti ve tutkusu, Kousei'nin müziğe olan sevgisini yeniden keşfetmesine yardımcı olur. Ancak, Kaori'nin kendi sağlık sorunlarıyla başa çıkmasıyla birlikte, ikisinin de hayatında zorlu zamanlar beklemektedir. Your Lie in April, müziğin gücü, aşkın karmaşıklığı ve kişisel büyüme üzerine dokunaklı bir hikaye sunar.",
       "main_characters": [
@@ -297,7 +377,15 @@
       ],
       "head_photo": "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/cover_photo%2Fylia_head.jpg?alt=media&token=85fe643f-8f3e-48bb-9701-8869fbc3d94d",
       "author": "Naoshi Arakawa",
-      "year": "2011"
+      "year": "2011",
+      "logo": "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_logo%2Fyour_lie_in_april_logo.png?alt=media&token=bd6873ed-69b0-4fcb-b8ad-693458f49778",
+      "detail_photos": [
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fyour_lie_in_april_1.jpeg?alt=media&token=38de576e-d2a2-4cbb-8f44-b1568cf2caf9",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fyour_lie_in_april_2.jpeg?alt=media&token=a3b084d9-4f91-40b3-a555-2ac0ed5e2ad4",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fyour_lie_in_april_3.jpeg?alt=media&token=5171f89a-5ddf-4785-a076-e8df6177a397",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fyour_lie_in_april_4.jpeg?alt=media&token=5b5a600b-d6df-405f-a702-d1fa6e9cd35c",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fyour_lie_in_april_5.jpeg?alt=media&token=552f7b04-5c48-4b5e-a4cc-19d1414cde45"
+      ]
     },
     {
       "name": "Bleach",
@@ -324,10 +412,18 @@
       ],
       "head_photo": "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/cover_photo%2Fbleach_head.jpg?alt=media&token=442dbce0-2b3d-4991-818c-0417500ca48b",
       "author": "Tite Kubo",
-      "year": "2001"
+      "year": "2001",
+      "logo": "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_logo%2Fbleach_logo.png?alt=media&token=428797c7-9a90-48d0-bd0c-9d2b04b67326",
+      "detail_photos": [
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fbleach_1.jpg?alt=media&token=13ab1e0d-a994-4b9b-b4de-b167d2f65a99",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fbleach_2.jpg?alt=media&token=f2262c32-9c23-4d75-b7bf-3dc763924b7d",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fbleach_3.jpg?alt=media&token=437d20ad-ea8e-4b5d-b04e-34b73ad68f4d",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fbleach_4.jpg?alt=media&token=0e3c11a1-89f1-4319-90e5-34117da16ea1",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fbleach_5.jpg?alt=media&token=1a88f1c8-27da-4397-a48d-3b253a3e0849"
+      ]
     },
     {
-      "name": "Fate/Stay Night Movie: Unlimited Blade Works",
+      "name": "Fate/Stay Night: Unlimited Blade Works",
       "embed_id": "kU3eBLS_3Oc?si=8T7uIJKxxWNSo1Ke",
       "description": "Fate/Stay Night Movie: Unlimited Blade Works, Fate/Stay Night serisinin bir parçası olan bir anime filmidir. Film, büyülü bir mücadele olan Holy Grail War'ın bir versiyonunu anlatır. Ana karakter Shirou Emiya, Holy Grail War'a katılan büyücülerden biridir ve kendi dileğiyle savaşa katılmıştır. Ancak, kendini korumak ve sevdiklerini kurtarmak için mücadele ederken, gerçek niyetlerini ve arzularını keşfeder. Filmde, Holy Grail War'ın gizemleri ve tehlikeleriyle dolu epik savaş sahneleri ve karakterlerin derinlikli hikayeleri bulunur. Fate/Stay Night Movie: Unlimited Blade Works, aksiyon ve fantastik unsurlarla dolu heyecan verici bir seridir.",
       "main_characters": [
@@ -350,8 +446,15 @@
         "Anime Film"
       ],
       "head_photo": "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/cover_photo%2Ffate_ubw_head.jpg?alt=media&token=6e265200-2b68-404c-ba8e-114abc82f5ed",
-      "author": "Kinoko Nasu",
-      "year": "2014"
+      "author": "Kin,
+      "logo": "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_logo%2Ffate_ubw_logo.png?alt=media&token=90d171a3-7b20-4f20-b6ec-e722250a3313",
+      "detail_photos": [
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Ffate_ulbw_1.jpg?alt=media&token=bb52897c-6a1c-4f9b-845a-55ffe73699e3",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Ffate_ulbw_2.jpg?alt=media&token=c3db48ca-abeb-40a8-a26e-8f2bba2e4248",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Ffate_ulbw_3.jpg?alt=media&token=4725196a-d900-40d3-978d-8cf522680e30",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Ffate_ulbw_4.jpg?alt=media&token=74395fb7-27cf-4f77-9ff1-3e2818f63b9f",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Ffate_ulbw_5.jpg?alt=media&token=7470a3e7-e072-47b5-a704-2a25b79d83de"
+      ]
     },
     {
       "name": "Fate/Zero",
@@ -378,7 +481,15 @@
       ],
       "head_photo": "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/cover_photo%2Ffate_zero_head.jpg?alt=media&token=bf77cd76-9bf9-452d-8c72-7a279836f88e",
       "author": "Gen Urobuchi",
-      "year": "2006"
+      "year": "2006",
+      "logo": "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_logo%2Ffate_zero_logo.png?alt=media&token=e36ae7f7-d328-4f2b-a2fb-e77c0b35c2ee",
+      "detail_photos": [
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Ffate_zero_1.jpg?alt=media&token=bb39451b-e0af-4401-a4a9-401010503cfd",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Ffate_zero_2.jpg?alt=media&token=2581ad7a-dba6-4596-9c06-e637a06886d6",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Ffate_zero_3.jpg?alt=media&token=3bed3336-9b40-4a2d-8999-e3b433967c3f",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Ffate_zero_4.jpg?alt=media&token=0c27a35e-9cec-4408-9d10-a81792818ed1",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Ffate_zero_5.jpg?alt=media&token=77a7ea43-7f19-4d3f-8cf6-c2024a5d7f95"
+      ]
     },
     {
       "name": "Spy x Family",
@@ -398,7 +509,15 @@
       ],
       "head_photo": "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/cover_photo%2Fspy_x_family_head.jpg?alt=media&token=82ba9b64-484f-4526-83e1-e5ba23ad4fbd",
       "author": "Tatsuya Endo",
-      "year": "2019"
+      "year": "2019",
+      "logo": "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_logo%2Fspy_x_family_logo.png?alt=media&token=7332be9c-1a93-425b-8624-c7b78c5166b7",
+      "detail_photos": [
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fspy_x_family_1.jpg?alt=media&token=040adb17-85ae-47b8-ba1e-73ef6ed912bc",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fspy_x_family_2.jpg?alt=media&token=f8e39faf-5221-4be6-a825-8f0699d41df3",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fspy_x_family_3.jpg?alt=media&token=0fa04edb-4aa0-4820-92c8-f8be1a193a7b",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fspy_x_family_4.jpg?alt=media&token=ba076134-6a02-4853-8ac7-8812e6075f29",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fspy_x_family_5.jpg?alt=media&token=5b0543ad-7cfc-4c29-af08-2b4b467e88f7"
+      ]
     },
     {
       "name": "Chainsaw Man",
@@ -421,7 +540,15 @@
       ],
       "head_photo": "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/cover_photo%2Fchainsaw_man_head.jpg?alt=media&token=c931a959-295d-45d0-bb2d-56adc39914b9",
       "author": "Tatsuki Fujimoto",
-      "year": "2018"
+      "year": "2018",
+      "logo": "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_logo%2Fchainsaw_man_logo.png?alt=media&token=0d934a9b-af45-40c5-8d49-b636b76c15d4",
+      "detail_photos": [
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fchainsaw_man_1.jpg?alt=media&token=a9329908-5d17-49ac-917f-a6439378e4f1",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fchainsaw_man_2.jpg?alt=media&token=c5b64b4f-e9e6-4896-98fe-c6b41b528198",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fchainsaw_man_3.jpg?alt=media&token=1de99d6b-2191-4402-a5d1-23ee7b9d93c6",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fchainsaw_man_4.jpg?alt=media&token=19129a83-3b9e-42fe-8438-3b1c2673fb25",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fchainsaw_man_5.jpg?alt=media&token=814a876d-0a3c-4393-868e-99faa2ff54b3"
+      ]
     },
     {
       "name": "Suzume no Tojimari",
@@ -444,7 +571,15 @@
       ],
       "head_photo": "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/cover_photo%2Fsuzume_head.jpg?alt=media&token=da2826b3-9e7b-4e2c-90e1-f4707e5a505a",
       "author": "Mika Yamamori",
-      "year": "2017"
+      "year": "2017",
+      "logo": "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_logo%2Fsuzume_logo.png?alt=media&token=ec43926b-5c24-4ca9-a28e-c75a1f377df8",
+      "detail_photos": [
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fsuzume_1.jpg?alt=media&token=1852261a-aaf4-4599-abbc-b3a46c77b809",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fsuzume_2.jpg?alt=media&token=096458f8-e7f9-474c-b9da-37feec2819c6",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fsuzume_3.jpg?alt=media&token=b92754b8-1c8c-4a52-971f-b9ebd03d7864",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fsuzume_4.jpg?alt=media&token=7450f0f1-6761-4db7-b9fe-101b08056655",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fsuzume_5.jpg?alt=media&token=fcb56af0-eefb-4776-8cac-1dbf36b5f177"
+      ]
     },
     {
       "name": "Kimi no Na wa.",
@@ -464,7 +599,15 @@
       ],
       "head_photo": "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/cover_photo%2Fkimi_no_na_wa_head.jpg?alt=media&token=d50e78a0-f316-43d9-92e9-d70e586eacd3",
       "author": "Makoto Shinkai",
-      "year": "2016"
+      "year": "2016",
+      "logo": "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_logo%2Fkimi_no_na_wa_logo.png?alt=media&token=3217ff10-17a0-4973-8f23-7ecfb8cc465c",
+      "detail_photos": [
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fkimi_no_na_wa_1.JPG?alt=media&token=b7941a9a-6b0f-48ca-86e3-63d390486618",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fkimi_no_na_wa_2.JPG?alt=media&token=14616bed-b0ca-4429-98f4-a82f61c23a0c",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fkimi_no_na_wa_3.JPG?alt=media&token=192e72c8-49ac-4f0f-8192-e8f1fa8f7dc1",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fkimi_no_na_wa_4.JPG?alt=media&token=a0ab856a-89b3-42cb-b8ec-dc54b7e4089b",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fkimi_no_na_wa_5.JPG?alt=media&token=0b9c6255-2c7d-4edb-ba4e-482f8af5bb39"
+      ]
     },
     {
       "name": "Tenki no Ko",
@@ -484,7 +627,15 @@
       ],
       "head_photo": "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/cover_photo%2Ftenki_no_ko_head.jpg?alt=media&token=c17b6410-aee4-4dd5-a611-7f0934395e10",
       "author": "Makoto Shinkai",
-      "year": "2019"
+      "year": "2019",
+      "logo": "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_logo%2Ftenki_no_ko_logo.png?alt=media&token=aee1bace-cf3d-4755-9ae2-1ca30d46d938",
+      "detail_photos": [
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Ftenki_no_ko_1.jpg?alt=media&token=5fb22fe5-6757-441d-acc7-f73687295bf6",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Ftenki_no_ko_2.jpg?alt=media&token=640f6d78-cafd-40ad-9f74-21fbb406a942",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Ftenki_no_ko_3.jpg?alt=media&token=7902a6b4-b921-41b5-b3e4-7ef079c2ca6f",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Ftenki_no_ko_4.jpg?alt=media&token=7026e456-bfd7-4ea0-a901-42ed0350525d",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Ftenki_no_ko_5.jpg?alt=media&token=45b55ba2-5e6b-426a-952a-b8b46cdaf8bc"
+      ]
     },
     {
       "name": "Josee to Tora to Sakana-tachi",
@@ -502,7 +653,15 @@
       ],
       "head_photo": "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/cover_photo%2Fjosee_the_tiger_and_the_fish_head.jpg?alt=media&token=0eba6dfe-4a27-41a1-b408-55145947fe85",
       "author": "Seiko Tanabe",
-      "year": "2020"
+      "year": "2020",
+      "logo": "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_logo%2Fjosee_to_tora_logo.png?alt=media&token=a444ee53-10e4-4e9a-a5c0-efbbe6483321",
+      "detail_photos": [
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fjosee_to_tora_1.jpg?alt=media&token=42519453-073e-4c33-a687-2dbfb83f77a2",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fjosee_to_tora_2.jpg?alt=media&token=4de7cb25-d196-447e-8c60-12515a0c22d7",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fjosee_to_tora_3.jpg?alt=media&token=8f7d9038-80bc-4be8-9b8b-0e0ceb8cd2f1",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fjosee_to_tora_4.jpg?alt=media&token=1dec64a5-754f-450b-903f-bc4de7e4e117",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fjosee_to_tora_5.jpg?alt=media&token=bce04dd2-8fd1-4557-93d2-9e87266dcfca"
+      ]
     },
     {
       "name": "Howl's Moving Castle",
@@ -525,13 +684,20 @@
       ],
       "head_photo": "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/cover_photo%2Fhowls_moving_castle_head.jpg?alt=media&token=8e257733-8c6c-4ac0-9017-04553c8fa6ba",
       "author": "Hayao Miyazaki",
-      "year": "2004"
+      "year": "2004",
+      "logo": "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_logo%2Fhowls_moving_castle_logo.png?alt=media&token=fd35e774-abb7-493e-b756-7bd08c6f29b8",
+      "detail_photos": [
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fhowls_moving_castle_1.jpeg?alt=media&token=e3dd9226-d6d4-4420-802c-814ed0ae7631",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fhowls_moving_castle_2.jpeg?alt=media&token=e85efaf9-8d3c-4207-a5dd-bc125a4d325a",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fhowls_moving_castle_3.jpeg?alt=media&token=fc51b678-fa29-4936-8f3d-cfa35ce51841",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fhowls_moving_castle_4.jpeg?alt=media&token=8f2b5f0b-cb0a-43c6-a06b-80a14a4c470e",
+        "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fhowls_moving_castle_5.jpeg?alt=media&token=09e0a930-f773-4b13-8bad-ee1e7eedf801"
+      ]
     }
   ],
 
 "genre": 
     {
-      
       "Action" : "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/category_logo%2Factionmdpi.png?alt=media&token=1a036dd4-2851-487c-b619-4af718f1ebd5",
       "Adventure" : "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/category_logo%2Fadventuremdpi.png?alt=media&token=4eafbce3-201a-4cb0-808e-cb3f4e167196",
       "Cars" : "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/category_logo%2Fcarsmdpi.png?alt=media&token=197dad14-bbe0-4bdf-a767-d450eae8f63d",
@@ -570,8 +736,6 @@
       "Thriller" : "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/category_logo%2Fthrillermdpi.png?alt=media&token=08987e92-7dee-46d8-8d64-66744a56c14c",
       "Vampire" : "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/category_logo%2Fvampiremdpi.png?alt=media&token=d49f87e4-1277-4670-8494-92a936ffb26a",
       "Yaoi" : "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/category_logo%2Fyaoimdpi.png?alt=media&token=3865f3de-d091-4e3d-afc2-5e18677a5571",
-      "Yuri" : "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/category_logo%2Fyurimdpi.png?alt=media&token=cd5525ab-c40f-4699-acb9-d6f2453fac97" } 
-      
-   
-  
+      "Yuri" : "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/category_logo%2Fyurimdpi.png?alt=media&token=cd5525ab-c40f-4699-acb9-d6f2453fac97" 
+    } 
 }
