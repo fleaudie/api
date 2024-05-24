@@ -24,7 +24,7 @@
         "Fantasy",
         "Shounen"
       ],
-      "head_photo": "https://photos.app.goo.gl/BUMfLEX4nAoMpVFc8",
+      "head_photo": "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/cover_photo%2Fone_piece_head.jpg?alt=media&token=726576aa-6102-4b94-9bb9-279fee983d37",
       "author": "Eiichiro Oda",
       "year": "1999"
     },
@@ -51,12 +51,12 @@
         "Fantasy",
         "Shounen"
       ],
-      "head_photo": "https://photos.app.goo.gl/ia93uiguvD6hJm2VA",
+      "head_photo": "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/cover_photo%2Fnaruto_head.jpg?alt=media&token=bbe8ca7b-a471-480d-bc9b-c8c183af7a6c",
       "author": "Masashi Kishimoto",
       "year": "2002"
     },
     {
-      "name": "Attack on Titan(Shingeki no Kyojin)",
+      "name": "Attack on Titan",
       "embed_id": "X5bY0skFp18?si=WsTwkwumHKgJ6hm5",
       "description": "Attack on Titan, Hajime Isayama tarafından yazılan ve çizilen, distopik bir dünyada geçen popüler bir manga ve anime serisidir. Seri, insanlığın devasa yaratıklar olan Titanlar tarafından tehdit edildiği bir dünyada geçer. Ana karakterlerden Eren Yeager, Mikasa Ackerman ve Armin Arlert, surlarla çevrili son insan şehri olan ve Titanların saldırısından korunan Wall Maria'da yaşarlar. Ancak, bir gün surların yıkılmasıyla birlikte Eren'in annesi dahil birçok insan Titanlar tarafından yenilir. Bunun üzerine Eren, Mikasa ve Armin, Titanlara karşı savaşmak ve insanlığı kurtarmak için birlikte savaşmaya başlarlar. Seri, savaş, insan doğası, adalet ve kurtuluş gibi derin temaları işlerken, bol aksiyon ve gizemle doludur.",
       "main_characters": [
@@ -78,12 +78,12 @@
         "Mystery",
         "Shounen"
       ],
-      "head_photo": "https://photos.app.goo.gl/YcoZbx5U2m8WUk8J7",
+      "head_photo": "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/cover_photo%2Faot_head.jpg?alt=media&token=5b56d9a2-1e26-47db-9a34-6fa91214c8cd",
       "author": "Hajime Isayama",
       "year": "2013"
     },
     {
-      "name": "Demon Slayer(Kimetsu no Yaiba)",
+      "name": "Demon Slayer",
       "embed_id": "foxUhOErD28?si=2FDzjmzyG5uUq_eW",
       "description": "Kimetsu no Yaiba, Koyoharu Gotouge tarafından yazılan ve çizilen, Japonya'da büyük bir fenomen haline gelen bir manga ve anime serisidir. Seri, Taisho döneminde geçen ve insanların yaratıklar olan iblislerle savaştığı bir dünyada geçer. Ana karakterlerden Tanjiro Kamado'nun ailesi bir iblis tarafından öldürülür, ancak kız kardeşi Nezuko'nun bir iblis olmasıyla hayatta kalır. Tanjiro, Nezuko'yu insan yapmayı ve ailesinin intikamını almayı amaçlayarak iblis avcısı olmaya karar verir. Yolculuğunda çeşitli iblislerle savaşırken, güçlenir ve dostluklar kurar. Kimetsu no Yaiba, aksiyon dolu sahneleri, duygusal derinliği ve karakter gelişimi ile dikkat çeker.",
       "main_characters": [
@@ -105,7 +105,7 @@
         "Supernatural",
         "Shounen"
       ],
-      "head_photo": "https://photos.app.goo.gl/oBrp5UQPry6DLoKu9",
+      "head_photo": "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/cover_photo%2Fdemon_slayer_head.jpg?alt=media&token=beef0396-b4aa-452e-bdb1-d41499aeff89",
       "author": "Koyoharu Gotouge",
       "year": "2019"
     },
@@ -134,7 +134,7 @@
         "Horror",
         "School"
       ],
-      "head_photo": "https://photos.app.goo.gl/8RwkuiMiCryVKbZa8",
+      "head_photo": "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/cover_photo%2Fjujutsu_kaisen_head.jpg?alt=media&token=dc110927-3130-4d7c-89c2-1b96045d33c0",
       "author": "Gege Akutami",
       "year": "2020"
     },
@@ -161,7 +161,7 @@
         "Comedy",
         "Drama"
       ],
-      "head_photo": "https://photos.app.goo.gl/uvS4gUNAudtXou1r6",
+      "head_photo": "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/cover_photo%2Fmha_head.jpeg?alt=media&token=5540e57f-e45b-4c29-b36b-f756defbe71d",
       "author": "Kohei Horikoshi",
       "year": "2014"
     },
@@ -188,7 +188,7 @@
         "Fantasy",
         "Comedy"
       ],
-      "head_photo": "https://photos.app.goo.gl/XzgLP3hm5e12c7Ye9",
+      "head_photo": "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/cover_photo%2Fblack_clover_head.jpg?alt=media&token=a01005e3-5e54-4937-8251-19ce3eab9c4e",
       "author": "Yuki Tabata",
       "year": "2015"
     },
@@ -215,7 +215,7 @@
         "Shounen",
         "Alchemy"
       ],
-      "head_photo": "https://photos.app.goo.gl/DS8xBB1MjQGzufAXA",
+      "head_photo": "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/cover_photo%2Ffma_head.jpg?alt=media&token=77f92c3a-9ce1-4507-bab9-5b68f05982d0",
       "author": "Hiromu Arakawa",
       "year": "2009"
     },
@@ -242,7 +242,7 @@
         "Samurai",
         "Shounen"
       ],
-      "head_photo": "https://photos.app.goo.gl/3xMrfZbVbjLUdfeC6",
+      "head_photo": "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/cover_photo%2Fgintama_head.jpg?alt=media&token=17455684-5ea4-4faf-81cd-e912b5412994",
       "author": "Hideaki Sorachi",
       "year": "2006"
     },
@@ -269,7 +269,7 @@
         "Seinen",
         "Sci-Fi"
       ],
-      "head_photo": "https://photos.app.goo.gl/ytjiCLTiWB9yZxPw6",
+      "head_photo": "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/cover_photo%2Fopm_head.jpg?alt=media&token=26ceab51-7d76-4d80-a4ee-0a4a94439ea3",
       "author": "ONE",
       "year": "2009"
     },
@@ -295,7 +295,7 @@
         "Slice of Life",
         "Shounen"
       ],
-      "head_photo": "https://photos.app.goo.gl/agceT7mFX1VGQtTp8",
+      "head_photo": "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/cover_photo%2Fylia_head.jpg?alt=media&token=85fe643f-8f3e-48bb-9701-8869fbc3d94d",
       "author": "Naoshi Arakawa",
       "year": "2011"
     },
@@ -322,7 +322,7 @@
         "Fantasy",
         "Drama"
       ],
-      "head_photo": "https://photos.app.goo.gl/vK5bpknZjETpjwkZ9",
+      "head_photo": "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/cover_photo%2Fbleach_head.jpg?alt=media&token=442dbce0-2b3d-4991-818c-0417500ca48b",
       "author": "Tite Kubo",
       "year": "2001"
     },
@@ -349,7 +349,7 @@
         "Romance",
         "Anime Film"
       ],
-      "head_photo": "https://photos.app.goo.gl/1k2HnnvfCdUq16NT7",
+      "head_photo": "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/cover_photo%2Ffate_ubw_head.jpg?alt=media&token=6e265200-2b68-404c-ba8e-114abc82f5ed",
       "author": "Kinoko Nasu",
       "year": "2014"
     },
@@ -376,7 +376,7 @@
         "Thriller",
         "Seinen"
       ],
-      "head_photo": "https://photos.app.goo.gl/n6KmvghEsYH1X5qC6",
+      "head_photo": "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/cover_photo%2Ffate_zero_head.jpg?alt=media&token=bf77cd76-9bf9-452d-8c72-7a279836f88e",
       "author": "Gen Urobuchi",
       "year": "2006"
     },
@@ -396,7 +396,7 @@
         "Spy",
         "Shounen"
       ],
-      "head_photo": "https://photos.app.goo.gl/4JDT2a3EAJDjrDuJ8",
+      "head_photo": "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/cover_photo%2Fspy_x_family_head.jpg?alt=media&token=82ba9b64-484f-4526-83e1-e5ba23ad4fbd",
       "author": "Tatsuya Endo",
       "year": "2019"
     },
@@ -419,7 +419,7 @@
         "Supernatural",
         "Seinen"
       ],
-      "head_photo": "https://photos.app.goo.gl/sDgQfj9XaxAVTni88",
+      "head_photo": "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/cover_photo%2Fchainsaw_man_head.jpg?alt=media&token=c931a959-295d-45d0-bb2d-56adc39914b9",
       "author": "Tatsuki Fujimoto",
       "year": "2018"
     },
@@ -442,7 +442,7 @@
         "Drama",
         "Shoujo"
       ],
-      "head_photo": "https://photos.app.goo.gl/WSYwPapp9LrkQn6b9",
+      "head_photo": "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/cover_photo%2Fsuzume_head.jpg?alt=media&token=da2826b3-9e7b-4e2c-90e1-f4707e5a505a",
       "author": "Mika Yamamori",
       "year": "2017"
     },
@@ -462,7 +462,7 @@
         "Supernatural",
         "Anime Film"
       ],
-      "head_photo": "https://photos.app.goo.gl/JTzAe5WZbjUwGPZ87",
+      "head_photo": "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/cover_photo%2Fkimi_no_na_wa_head.jpg?alt=media&token=d50e78a0-f316-43d9-92e9-d70e586eacd3",
       "author": "Makoto Shinkai",
       "year": "2016"
     },
@@ -482,7 +482,7 @@
         "Supernatural",
         "Anime Film"
       ],
-      "head_photo": "https://photos.app.goo.gl/HbR7cJ6kcB6BTpa46",
+      "head_photo": "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/cover_photo%2Ftenki_no_ko_head.jpg?alt=media&token=c17b6410-aee4-4dd5-a611-7f0934395e10",
       "author": "Makoto Shinkai",
       "year": "2019"
     },
@@ -500,7 +500,7 @@
         "Slice of Life",
         "Anime Film"
       ],
-      "head_photo": "https://photos.app.goo.gl/1N8evae7nKN6xHM76",
+      "head_photo": "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/cover_photo%2Fjosee_the_tiger_and_the_fish_head.jpg?alt=media&token=0eba6dfe-4a27-41a1-b408-55145947fe85",
       "author": "Seiko Tanabe",
       "year": "2020"
     },
@@ -523,7 +523,7 @@
         "Drama",
         "Anime Film"
       ],
-      "head_photo": "https://photos.app.goo.gl/PEyZhVxm7WDVBrfi7",
+      "head_photo": "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/cover_photo%2Fhowls_moving_castle_head.jpg?alt=media&token=8e257733-8c6c-4ac0-9017-04553c8fa6ba",
       "author": "Hayao Miyazaki",
       "year": "2004"
     }
