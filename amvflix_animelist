@@ -737,5 +737,14 @@
       "Vampire" : "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/category_logo%2Fvampiremdpi.png?alt=media&token=d49f87e4-1277-4670-8494-92a936ffb26a",
       "Yaoi" : "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/category_logo%2Fyaoimdpi.png?alt=media&token=3865f3de-d091-4e3d-afc2-5e18677a5571",
       "Yuri" : "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/category_logo%2Fyurimdpi.png?alt=media&token=cd5525ab-c40f-4699-acb9-d6f2453fac97" 
-    } 
+    },
+
+  "top_animes":
+    {
+      "Attack on Titan" : "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Faot_5.jpg?alt=media&token=7f4bf572-9d77-4519-968c-4c17742a5a5e",
+      "Fullmetal Alchemist: Brotherhood" : "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Ffma_3.jpg?alt=media&token=571be010-304d-4347-ad20-fea2cb115407",
+      "One Piece" : "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fone_piece_1.jpg?alt=media&token=b4816c97-8e2c-41a3-baee-a37a1825f557",
+      "Hunter x Hunter" : "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fhxh_1.jpg?alt=media&token=99abb303-6b4c-4328-a053-4aa057f4d43e",
+      "Bleach" : "https://firebasestorage.googleapis.com/v0/b/amvflix-1e540.appspot.com/o/anime_scene%2Fbleach_1.jpg?alt=media&token=13ab1e0d-a994-4b9b-b4de-b167d2f65a99"
+    }
 }
