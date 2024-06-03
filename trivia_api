@@ -1,1 +1,1454 @@
-
+{
+  "categories": [
+    {
+      "categoryName": "Genel Kültür",
+      "questions": [
+        {
+          "question": "Türkiye'nin başkenti neresidir?",
+          "options": ["İstanbul", "Ankara", "İzmir", "Antalya"],
+          "correctAnswer": "Ankara",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "Türkiye Cumhuriyeti'nin kuruluş yılı hangisidir?",
+          "options": ["1920", "1921", "1923", "1925"],
+          "correctAnswer": "1923",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "İstiklal Marşı'nı yazan Türk şair kimdir?",
+          "options": ["Yahya Kemal Beyatlı", "Mehmet Akif Ersoy", "Nazım Hikmet Ran", "Orhan Veli Kanık"],
+          "correctAnswer": "Mehmet Akif Ersoy",
+          "difficultyLevel": "Easy",
+          "timeLimit": 20
+        },
+        {
+          "question": "Ankara hangi coğrafi bölgede yer alır?",
+          "options": ["Ege", "İç Anadolu", "Karadeniz", "Marmara"],
+          "correctAnswer": "İç Anadolu",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "Türkiye'nin ulusal çiçeği nedir?",
+          "options": ["Lale", "Menekşe", "Gül", "Nergis"],
+          "correctAnswer": "Lale",
+          "difficultyLevel": "Medium",
+          "timeLimit": 15
+        },
+        {
+          "question": "Çanakkale Savaşı hangi yıllar arasında gerçekleşmiştir?",
+          "options": ["1912-1913", "1914-1915", "1915-1916", "1916-1917"],
+          "correctAnswer": "1915-1916",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "Türkiye'nin en büyük yüzölçümüne sahip ili hangisidir?",
+          "options": ["İstanbul", "Ankara", "Konya", "İzmir"],
+          "correctAnswer": "Konya",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "Hangi savaş, Osmanlı İmparatorluğu'nun sonunu ve Türkiye Cumhuriyeti'nin kurulmasını sağlamıştır?",
+          "options": ["Çanakkale Savaşı", "Balkan Savaşları", "Kurtuluş Savaşı", "Kırım Savaşı"],
+          "correctAnswer": "Kurtuluş Savaşı",
+          "difficultyLevel": "Hard",
+          "timeLimit": 30
+        },
+        {
+          "question": "Türkiye'nin en büyük adası hangisidir?",
+          "options": ["Gökçeada", "Büyükada", "Bozcaada", "Marmara Adası"],
+          "correctAnswer": "Gökçeada",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "Türkiye'de en çok konuşulan ikinci dil hangisidir?",
+          "options": ["Kürtçe", "Arapça", "İngilizce", "Rusça"],
+          "correctAnswer": "Kürtçe",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "Galata Kulesi hangi şehrimizdedir?",
+          "options": ["İzmir", "Bursa", "Ankara", "İstanbul"],
+          "correctAnswer": "İstanbul",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "Türkiye'deki en uzun nehir hangisidir?",
+          "options": ["Kızılırmak", "Sakarya Nehri", "Yeşilırmak", "Fırat Nehri"],
+          "correctAnswer": "Kızılırmak",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "Türkiye'nin ilk başbakanı kimdir?",
+          "options": ["İsmet İnönü", "Adnan Menderes", "Bülent Ecevit", "Cemal Gürsel"],
+          "correctAnswer": "İsmet İnönü",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "Türkiye'de yapılan ilk nüfus sayımı hangi yıl yapılmıştır?",
+          "options": ["1923", "1927", "1935", "1940"],
+          "correctAnswer": "1927",
+          "difficultyLevel": "Hard",
+          "timeLimit": 30
+        },
+        {
+          "question": "Topkapı Sarayı hangi dönemde inşa edilmiştir?",
+          "options": ["Selçuklu Dönemi", "Osmanlı Dönemi", "Cumhuriyet Dönemi", "Bizans Dönemi"],
+          "correctAnswer": "Osmanlı Dönemi",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "Türkiye'de hangi yıl Avrupa Birliği'ne tam üyelik müzakereleri başlamıştır?",
+          "options": ["1999", "2000", "2005", "2010"],
+          "correctAnswer": "2005",
+          "difficultyLevel": "Hard",
+          "timeLimit": 30
+        },
+        {
+          "question": "İstanbul'un fethi hangi yılda gerçekleşmiştir?",
+          "options": ["1451", "1453", "1461", "1478"],
+          "correctAnswer": "1453",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "İzmir'in kurtuluşu hangi tarihte gerçekleşmiştir?",
+          "options": ["9 Eylül 1921", "9 Eylül 1922", "9 Eylül 1923", "9 Eylül 1924"],
+          "correctAnswer": "9 Eylül 1922",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "Türk Hava Yolları ne zaman kurulmuştur?",
+          "options": ["1923", "1933", "1945", "1953"],
+          "correctAnswer": "1933",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "Anıtkabir hangi şehrimizdedir?",
+          "options": ["İstanbul", "Ankara", "Bursa", "Konya"],
+          "correctAnswer": "Ankara",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        }
+      ]
+    },
+    {
+      "categoryName": "Spor",
+      "questions": [
+        {
+          "question": "2022 FIFA Dünya Kupası hangi ülkede düzenlenmiştir?",
+          "options": ["Katar", "Rusya", "Brezilya", "Almanya"],
+          "correctAnswer": "Katar",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "Hangi spor dalında 'smash' terimi kullanılır?",
+          "options": ["Tenis", "Basketbol", "Voleybol", "Futbol"],
+          "correctAnswer": "Tenis",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "Olimpiyat oyunlarında en çok altın madalya kazanan Türk sporcu kimdir?",
+          "options": ["Naim Süleymanoğlu", "Halil Mutlu", "Yasemin Adar", "Hamza Yerlikaya"],
+          "correctAnswer": "Naim Süleymanoğlu",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "Futbolda, Türkiye Süper Lig şampiyonu olan takım hangi kupayı alır?",
+          "options": ["Ziraat Türkiye Kupası", "Süper Kupa", "Şampiyonlar Ligi", "Süper Lig Kupası"],
+          "correctAnswer": "Süper Lig Kupası",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "Basketbol kurallarına göre, bir takım kaç oyuncudan oluşur?",
+          "options": ["4", "5", "6", "7"],
+          "correctAnswer": "5",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "Türkiye'deki en ünlü yelken yarışı hangisidir?",
+          "options": ["Bodrum Cup", "Marmara Regatta", "Çeşme Trophy", "Antalya Yacht Race"],
+          "correctAnswer": "Bodrum Cup",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "Formula 1 yarışlarında Türkiye'nin ev sahipliği yaptığı pistin adı nedir?",
+          "options": ["İstanbul Park", "Bursa Ring", "Ankara Speedway", "Antalya Circuit"],
+          "correctAnswer": "İstanbul Park",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "Galatasaray, hangi yıl UEFA Kupası'nı kazanmıştır?",
+          "options": ["1999", "2000", "2001", "2002"],
+          "correctAnswer": "2000",
+          "difficultyLevel": "Hard",
+          "timeLimit": 30
+        },
+        {
+          "question": "Hangi tenis turnuvası toprak kortta oynanır?",
+          "options": ["Wimbledon", "US Open", "Australian Open", "French Open"],
+          "correctAnswer": "French Open",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "En son olimpiyat oyunları hangi şehirde düzenlenmiştir?",
+          "options": ["Rio de Janeiro", "Londra", "Tokyo", "Pekin"],
+          "correctAnswer": "Tokyo",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "Türkiye milli futbol takımının 2002 FIFA Dünya Kupası'nda bitirdiği sıra nedir?",
+          "options": ["Üçüncü", "Dördüncü", "İkinci", "Beşinci"],
+          "correctAnswer": "Üçüncü",
+          "difficultyLevel": "Hard",
+          "timeLimit": 30
+        },
+        {
+          "question": "Kış Olimpiyatları'nda Türkiye hangi spor dalında yarışmaktadır?",
+          "options": ["Curling", "Kayak", "Paten", "Bobsled"],
+          "correctAnswer": "Kayak",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "Voleybol maçında bir takım kaç set kazanmalıdır oyunu kazanmak için?",
+          "options": ["2", "3", "4", "5"],
+          "correctAnswer": "3",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "Türkiye'de hangi şehir 2013 Akdeniz Oyunları'na ev sahipliği yapmıştır?",
+          "options": ["İzmir", "Mersin", "Antalya", "Adana"],
+          "correctAnswer": "Mersin",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "Türkiye'de ilk kez düzenlenen Formula 1 yarışı hangi yılda yapılmıştır?",
+          "options": ["2003", "2005", "2007", "2009"],
+          "correctAnswer": "2005",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "2021 Avrupa Futbol Şampiyonası finalini kazanan ülke hangisidir?",
+          "options": ["İtalya", "İngiltere", "Fransa", "Almanya"],
+          "correctAnswer": "İtalya",
+          "difficultyLevel": "Hard",
+          "timeLimit": 30
+        },
+        {
+          "question": "Türkiye'nin Olimpiyat Oyunları'nda aldığı ilk madalya hangi spor dalındadır?",
+          "options": ["Güreş", "Atletizm", "Yüzme", "Boks"],
+          "correctAnswer": "Güreş",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "Fenerbahçe basketbol takımı hangi yıl EuroLeague şampiyonu olmuştur?",
+          "options": ["2014", "2015", "2016", "2017"],
+          "correctAnswer": "2017",
+          "difficultyLevel": "Hard",
+          "timeLimit": 30
+        },
+        {
+          "question": "Hangi ülke 2024 Yaz Olimpiyatları'na ev sahipliği yapacak?",
+          "options": ["Amerika", "Fransa", "Japonya", "Çin"],
+          "correctAnswer": "Fransa",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "Dünya Atletizm Şampiyonası'nda Türkiye'ye ilk altın madalyayı getiren sporcu kimdir?",
+          "options": ["Yasmani Copello Escobar", "Aslı Çakır Alptekin", "Ramil Guliyev", "Nevin Yanıt"],
+          "correctAnswer": "Ramil Guliyev",
+          "difficultyLevel": "Hard",
+          "timeLimit": 30
+        }
+      ]
+    },
+    {
+      "categoryName": "Sinema ve TV",
+      "questions": [
+        {
+          "question": "Yeşilçam'ın ünlü aktörü 'Kara Murat' karakteri ile tanınan sanatçı kimdir?",
+          "options": ["Kemal Sunal", "Cüneyt Arkın", "Tarık Akan", "Fatih Ürek"],
+          "correctAnswer": "Cüneyt Arkın",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "Türk televizyonlarında uzun yıllar boyunca yayınlanan ve sevilen dizi 'Leyla ile Mecnun' ilk kez hangi yılda yayımlanmaya başlamıştır?",
+          "options": ["2011", "2012", "2010", "2013"],
+          "correctAnswer": "2011",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "'Ezel' dizisinin baş karakteri Ezel Bayraktar'ı canlandıran oyuncu kimdir?",
+          "options": ["Kenan İmirzalıoğlu", "Nejat İşler", "Barış Falay", "Kıvanç Tatlıtuğ"],
+          "correctAnswer": "Kenan İmirzalıoğlu",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "Oscar ödülleri hangi ülkede düzenlenmektedir?",
+          "options": ["İngiltere", "ABD", "Fransa", "Kanada"],
+          "correctAnswer": "ABD",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "'Yüzüklerin Efendisi' serisinin yönetmeni kimdir?",
+          "options": ["Steven Spielberg", "Peter Jackson", "James Cameron", "Christopher Nolan"],
+          "correctAnswer": "Peter Jackson",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "Hangi filmde Robert De Niro, genç bir boksör rolünü canlandırmıştır?",
+          "options": ["Taxi Driver", "Raging Bull", "Goodfellas", "The Godfather Part II"],
+          "correctAnswer": "Raging Bull",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "‘Game of Thrones’ dizisindeki 'Demir Taht' kime aittir?",
+          "options": ["Ned Stark", "Robert Baratheon", "Jon Snow", "Daenerys Targaryen"],
+          "correctAnswer": "Robert Baratheon",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "2017 yılında en iyi film Oscar'ını kazanan film hangisidir?",
+          "options": ["La La Land", "Moonlight", "Manchester by the Sea", "Arrival"],
+          "correctAnswer": "Moonlight",
+          "difficultyLevel": "Hard",
+          "timeLimit": 30
+        },
+        {
+          "question": "Türk sinemasında 'Şaban' karakteri ile ün kazanmış aktör kimdir?",
+          "options": ["Şener Şen", "Kemal Sunal", "Adile Naşit", "Münir Özkul"],
+          "correctAnswer": "Kemal Sunal",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "Hangi ünlü Türk yönetmen, 'Uzak' filmi ile 2003 Cannes Film Festivali'nde Jüri Büyük Ödülü'nü kazanmıştır?",
+          "options": ["Nuri Bilge Ceylan", "Fatih Akın", "Yılmaz Erdoğan", "Semih Kaplanoğlu"],
+          "correctAnswer": "Nuri Bilge Ceylan",
+          "difficultyLevel": "Hard",
+          "timeLimit": 30
+        },
+        {
+          "question": "Hangi film serisi, 'Wingardium Leviosa' büyüsünü popüler hale getirmiştir?",
+          "options": ["The Chronicles of Narnia", "Harry Potter", "Lord of the Rings", "Star Wars"],
+          "correctAnswer": "Harry Potter",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "Türkiye'de, 'En İyi Kadın Oyuncu' dalında en çok Altın Portakal kazanan kadın oyuncu kimdir?",
+          "options": ["Türkan Şoray", "Fatma Girik", "Hülya Koçyiğit", "Demet Akbağ"],
+          "correctAnswer": "Türkan Şoray",
+          "difficultyLevel": "Hard",
+          "timeLimit": 30
+        },
+        {
+          "question": "2018 yılında çıkan, Marvel evrenindeki hangi filmde 'Thanos' ana kötü karakter olarak yer almaktadır?",
+          "options": ["Guardians of the Galaxy", "Avengers: Infinity War", "Thor: Ragnarok", "Black Panther"],
+          "correctAnswer": "Avengers: Infinity War",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "Türk televizyonlarında 'Behzat Ç. Bir Ankara Polisiyesi' dizisinin başrolünde kim oynamıştır?",
+          "options": ["Erdal Beşikçioğlu", "Nejat İşler", "Haluk Bilginer", "Kenan İmirzalıoğlu"],
+          "correctAnswer": "Erdal Beşikçioğlu",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "'Titanic' filmi kaç Oscar ödülü kazanmıştır?",
+          "options": ["8", "11", "13", "15"],
+          "correctAnswer": "11",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "Hangi dizi, bir lisenin futbol takımı ve onun antrenörü Eric Taylor etrafında döner?",
+          "options": ["Friday Night Lights", "One Tree Hill", "The O.C.", "Riverdale"],
+          "correctAnswer": "Friday Night Lights",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "2004 yılında en iyi yabancı film Oscar'ını kazanan 'Mar Adentro' hangi ülkeden bir filmidir?",
+          "options": ["İspanya", "İtalya", "Fransa", "Portekiz"],
+          "correctAnswer": "İspanya",
+          "difficultyLevel": "Hard",
+          "timeLimit": 30
+        },
+        {
+          "question": "Netflix'in popüler dizisi 'Stranger Things' ilk olarak hangi yıl yayımlanmıştır?",
+          "options": ["2014", "2015", "2016", "2017"],
+          "correctAnswer": "2016",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "'Kış Uykusu' filmiyle Cannes Film Festivali'nde Altın Palmiye kazanan Türk yönetmen kimdir?",
+          "options": ["Semih Kaplanoğlu", "Nuri Bilge Ceylan", "Fatih Akın", "Zeki Demirkubuz"],
+          "correctAnswer": "Nuri Bilge Ceylan",
+          "difficultyLevel": "Hard",
+          "timeLimit": 30
+        },
+        {
+          "question": "'Doctor Who' dizisinde zaman içinde seyahat etmek için kullanılan ikonik araç nedir?",
+          "options": ["Starship", "TARDIS", "DeLorean", "Time Capsule"],
+          "correctAnswer": "TARDIS",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        }
+      ]
+    },
+    {
+      "categoryName": "Sanat ve Edebiyat",
+      "questions": [
+        {
+          "question": "Türk edebiyatının ünlü ismi, 'Saatleri Ayarlama Enstitüsü' romanının yazarı kimdir?",
+          "options": ["Orhan Pamuk", "Yaşar Kemal", "Ahmet Hamdi Tanpınar", "Aziz Nesin"],
+          "correctAnswer": "Ahmet Hamdi Tanpınar",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "'Mona Lisa' tablosunu kim yapmıştır?",
+          "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"],
+          "correctAnswer": "Leonardo da Vinci",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "Dünya edebiyatında '1984' romanının yazarı kimdir?",
+          "options": ["George Orwell", "Aldous Huxley", "J.R.R. Tolkien", "Ernest Hemingway"],
+          "correctAnswer": "George Orwell",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "Hangi Türk şairi, 'Bir Gün Tek Başına' şiir kitabı ile tanınır?",
+          "options": ["Attila İlhan", "Cemal Süreya", "Turgut Uyar", "Edip Cansever"],
+          "correctAnswer": "Attila İlhan",
+          "difficultyLevel": "Hard",
+          "timeLimit": 30
+        },
+        {
+          "question": "Impressionizmin öncülerinden sayılan, 'Impression, Sunrise' tablosunun sanatçısı kimdir?",
+          "options": ["Edgar Degas", "Claude Monet", "Camille Pissarro", "Pierre-Auguste Renoir"],
+          "correctAnswer": "Claude Monet",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "Shakespeare'in 'Hamlet' eserindeki ünlü monolog hangi üç kelimeden başlar?",
+          "options": ["To be or", "Alas, poor", "O, that this", "Good night, sweet"],
+          "correctAnswer": "To be or",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "Kürk Mantolu Madonna'nın yazarı kimdir?",
+          "options": ["Orhan Kemal", "Sabahattin Ali", "Reşat Nuri Güntekin", "Halide Edip Adıvar"],
+          "correctAnswer": "Sabahattin Ali",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "Hangi sanatçı 'Guernica' tablosuyla tanınır?",
+          "options": ["Salvador Dali", "Frida Kahlo", "Pablo Picasso", "Joan Miró"],
+          "correctAnswer": "Pablo Picasso",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "İlk roman olarak kabul edilen ve Japon yazar Murasaki Shikibu tarafından yazılan eser hangisidir?",
+          "options": ["Genji Monogatari", "Kokoro", "The Pillow Book", "Rashomon"],
+          "correctAnswer": "Genji Monogatari",
+          "difficultyLevel": "Hard",
+          "timeLimit": 30
+        },
+        {
+          "question": "Türk ressamı İbrahim Çallı hangi sanat akımına aittir?",
+          "options": ["Fütürizm", "Kübizm", "Realizm", "Empresyonizm"],
+          "correctAnswer": "Realizm",
+          "difficultyLevel": "Hard",
+          "timeLimit": 30
+        },
+        {
+          "question": "Yunus Emre'nin eserlerinin büyük bir kısmı hangi türde yazılmıştır?",
+          "options": ["Roman", "Hikaye", "Şiir", "Deneme"],
+          "correctAnswer": "Şiir",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "Hangi yazar 'Karamazov Kardeşler' eserini yazmıştır?",
+          "options": ["Leo Tolstoy", "Fyodor Dostoyevsky", "Anton Chekhov", "Nikolai Gogol"],
+          "correctAnswer": "Fyodor Dostoyevsky",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "Rönesans döneminin en önemli temsilcilerinden biri olan, 'David' heykelini yapan sanatçı kimdir?",
+          "options": ["Michelangelo", "Donatello", "Leonardo da Vinci", "Raphael"],
+          "correctAnswer": "Michelangelo",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "Nazım Hikmet'in yazdığı ve Türkiye dışında da büyük ilgi gören eseri hangisidir?",
+          "options": ["Yaşamak Güzel Şey Be Kardeşim", "Memleketimden İnsan Manzaraları", "Kuvayi Milliye", "Mavi Gözlü Dev"],
+          "correctAnswer": "Memleketimden İnsan Manzaraları",
+          "difficultyLevel": "Hard",
+          "timeLimit": 30
+        },
+        {
+          "question": "Kara Kitap'ın yazarı kimdir?",
+          "options": ["Yusuf Atılgan", "Orhan Kemal", "Yaşar Kemal", "Orhan Pamuk"],
+          "correctAnswer": "Orhan Pamuk",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "Ünlü yazar Virginia Woolf'un 'Kendine Ait Bir Oda' adlı eseri hangi türde bir eserdir?",
+          "options": ["Roman", "Şiir kitabı", "Oyun", "Deneme"],
+          "correctAnswer": "Deneme",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "Dünya edebiyatında, 'Bir Yaz Gecesi Rüyası' adlı eseri kim yazmıştır?",
+          "options": ["William Shakespeare", "Charles Dickens", "Jane Austen", "Mark Twain"],
+          "correctAnswer": "William Shakespeare",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "İlk Türk Nobel Edebiyat Ödülü'nü kazanan yazar kimdir?",
+          "options": ["Yaşar Kemal", "Orhan Pamuk", "Aziz Nesin", "Haldun Taner"],
+          "correctAnswer": "Orhan Pamuk",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "Ressam Bob Ross hangi tarz resim yapmaya teşvik etmiştir?",
+          "options": ["Soyut", "Portre", "Peyzaj", "Minimalist"],
+          "correctAnswer": "Peyzaj",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "Ünlü 'Yapı Kredi Yayınları' hangi yazar tarafından kurulmuştur?",
+          "options": ["Yaşar Nabi Nayır", "Ahmet Hamdi Tanpınar", "Vehbi Koç", "Sabahattin Ali"],
+          "correctAnswer": "Vehbi Koç",
+          "difficultyLevel": "Hard",
+          "timeLimit": 30
+        }
+      ]
+    },
+    {
+      "categoryName": "Bilim",
+      "questions": [
+        {
+          "question": "Hangi element periyodik tabloda 'H' simgesiyle temsil edilir?",
+          "options": ["Helyum", "Hidrojen", "Hafniyum", "Hassium"],
+          "correctAnswer": "Hidrojen",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "DNA'nın çift sarmal yapısını keşfeden bilim insanları kimlerdir?",
+          "options": ["Watson ve Crick", "Mendel ve Morgan", "Darwin ve Wallace", "Avery ve Chargaff"],
+          "correctAnswer": "Watson ve Crick",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "Bir nesnenin yere düşme hızını hangi bilim insanı ilk olarak incelemiştir?",
+          "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Nikola Tesla"],
+          "correctAnswer": "Galileo Galilei",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "Hücre teorisini geliştiren bilim insanları kimlerdir?",
+          "options": ["Schleiden ve Schwann", "Virchow ve Pasteur", "Harvey ve Hooke", "Darwin ve Mendel"],
+          "correctAnswer": "Schleiden ve Schwann",
+          "difficultyLevel": "Hard",
+          "timeLimit": 30
+        },
+        {
+          "question": "Klorofil hangi süreçte önemli bir rol oynar?",
+          "options": ["Solunum", "Fotosentez", "Fermentasyon", "Difüzyon"],
+          "correctAnswer": "Fotosentez",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "Güneş sistemimizde kaç gezegen bulunmaktadır?",
+          "options": ["7", "8", "9", "10"],
+          "correctAnswer": "8",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "Işığın dalga boyu neyle ölçülür?",
+          "options": ["Ampermetre", "Spektrometre", "Oskiloskop", "Kronometre"],
+          "correctAnswer": "Spektrometre",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "Mutlak sıfır sıcaklığı kaç derecedir?",
+          "options": ["0 Kelvin", "-273.15 Celsius", "-100 Celsius", "0 Celsius"],
+          "correctAnswer": "-273.15 Celsius",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "Elektrik direnci biriminin adı nedir?",
+          "options": ["Volt", "Ampere", "Ohm", "Watt"],
+          "correctAnswer": "Ohm",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "Hangi vitamin güneş ışığından alınır?",
+          "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+          "correctAnswer": "Vitamin D",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "Evrenin yaşını en iyi tahmin eden bilimsel model hangisidir?",
+          "options": ["Evrim Teorisi", "Büyük Patlama Teorisi", "Durağan Evren Teorisi", "Kuantum Mekaniği"],
+          "correctAnswer": "Büyük Patlama Teorisi",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "Canlılarda enerji üretiminde hangi organik molekül esas olarak kullanılır?",
+          "options": ["Protein", "Glukoz", "Selüloz", "Lipid"],
+          "correctAnswer": "Glukoz",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "Hangi element elektrik iletkenliği en yüksek olan metallerden biridir?",
+          "options": ["Demir", "Bakır", "Altın", "Gümüş"],
+          "correctAnswer": "Gümüş",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "Çevre bilimi ile ilgili hangi terim ekosistemlerin işlevselliğini ifade eder?",
+          "options": ["Biyom", "Biyosfer", "Ekoloji", "Biyodiversite"],
+          "correctAnswer": "Biyodiversite",
+          "difficultyLevel": "Hard",
+          "timeLimit": 30
+        },
+        {
+          "question": "Radyoaktiviteyi keşfeden bilim insanı kimdir?",
+          "options": ["Marie Curie", "Albert Einstein", "Enrico Fermi", "Isaac Newton"],
+          "correctAnswer": "Marie Curie",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "Kara delikler hangi bilim dalının konusudur?",
+          "options": ["Kimya", "Biyoloji", "Astronomi", "Geoloji"],
+          "correctAnswer": "Astronomi",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "Kan grupları ilk olarak kim tarafından keşfedilmiştir?",
+          "options": ["Gregor Mendel", "Karl Landsteiner", "Alexander Fleming", "Louis Pasteur"],
+          "correctAnswer": "Karl Landsteiner",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "Bitkilerin suyu köklerden yapraklara taşıyan doku hangisidir?",
+          "options": ["Ksilem", "Floem", "Kambiyum", "Epidermis"],
+          "correctAnswer": "Ksilem",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "Hangi bilim adamı 'Özgül Bağıl Teori'yi geliştirmiştir?",
+          "options": ["Thomas Edison", "Nikola Tesla", "Albert Einstein", "Stephen Hawking"],
+          "correctAnswer": "Albert Einstein",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "Hangi organik bileşikler hücre membranlarının ana bileşenleridir?",
+          "options": ["Nükleik asitler", "Karbonhidratlar", "Lipidler", "Proteinler"],
+          "correctAnswer": "Lipidler",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        }
+      ]
+    },
+    {
+      "categoryName": "Sözler ve Deyimler",
+      "questions": [
+        {
+          "question": "'El elden üstündür' deyimi ne anlama gelir?",
+          "options": ["İşbirliğinin gücü", "Rekabet her zaman iyidir", "Herkes birbirinden üstündür", "İnsanlar birbirine benzer"],
+          "correctAnswer": "İşbirliğinin gücü",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "İngilizce 'It's raining cats and dogs.' ifadesinin Türkçe karşılığı nedir?",
+          "options": ["Köpek gibi yağmur yağıyor", "Kediler ve köpekler yağıyor", "Bardaktan boşanırcasına yağıyor", "Çok sıcak bir gün"],
+          "correctAnswer": "Bardaktan boşanırcasına yağıyor",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "'Zararın neresinden dönülse kardır' deyimi neyi ifade eder?",
+          "options": ["Zararın büyümesini önlemek", "Zararın hiç yaşanmamış olması", "Zararın telafi edilmesi", "Zararın kabullenilmesi"],
+          "correctAnswer": "Zararın büyümesini önlemek",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "İngilizce 'Don't count your chickens before they hatch.' deyiminin Türkçe karşılığı nedir?",
+          "options": ["Kümesi olanın tavuğu olur", "Kazandın demeden ödülü verme", "Tavuklarını yumurtadan önce sayma", "Dereyi görmeden paçaları sıvama"],
+          "correctAnswer": "Dereyi görmeden paçaları sıvama",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "'Bir koyundan iki post çıkmaz' deyiminin anlamı nedir?",
+          "options": ["Cimrilik yapmamak gerekir", "Her şeyin bir sınırı vardır", "Aynı fırsattan iki kez yararlanılmaz", "Ödünç almak iyidir"],
+          "correctAnswer": "Her şeyin bir sınırı vardır",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "İngilizce 'Once bitten, twice shy.' deyimi Türkçe'de nasıl bir anlama gelir?",
+          "options": ["Bir kere ısırılan iki kere utangaç olur", "Bir kere yanılan iki kere düşünür", "Yanılan her zaman kaybeder", "Ateş olmayan yerden duman çıkmaz"],
+          "correctAnswer": "Bir kere yanılan iki kere düşünür",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "'Akıl akıldan üstündür' deyimi ne anlatmaya çalışır?",
+          "options": ["Bilge kişiler her zaman kazanır", "Tecrübe her zaman önemlidir", "Birlikten kuvvet doğar", "Çok başlılık zararlıdır"],
+          "correctAnswer": "Birlikten kuvvet doğar",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "Fransızca 'C'est la vie' ifadesinin Türkçe karşılığı hangisidir?",
+          "options": ["Böyle gelmiş böyle gider", "Öyle bir hayat yok", "Hayat böyle", "Bazen kaybedersin"],
+          "correctAnswer": "Hayat böyle",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "'Gözden ırak olan, gönülden de ırak olur' ne anlama gelir?",
+          "options": ["Uzakta olan unutulur", "Görmek sevmekten gelir", "Aşk her zaman kazanır", "Yakın dostlar her zaman yakındır"],
+          "correctAnswer": "Uzakta olan unutulur",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "İspanyolca 'Más vale tarde que nunca' deyiminin Türkçe karşılığı nedir?",
+          "options": ["Hiç yoktan iyidir", "Her zaman umut vardır", "Geç olsun güç olmasın", "Zaman her şeyi çözer"],
+          "correctAnswer": "Geç olsun güç olmasın",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "'Atın ölümü arpadan olsun' deyiminin anlamı nedir?",
+          "options": ["Risk almak iyidir", "Her şeyin fazlası zarar", "Bolluk içinde zarar yoktur", "Fazla vermek zarar vermez"],
+          "correctAnswer": "Her şeyin fazlası zarar",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "İngilizce 'A penny for your thoughts.' ifadesinin Türkçe karşılığı hangisidir?",
+          "options": ["Düşüncelerin için bir kuruş", "Düşündüğünü söyle", "Düşüncelerinizi paylaşın", "Ne düşünüyorsun?"],
+          "correctAnswer": "Ne düşünüyorsun?",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "'Dağ dağa kavuşmaz, insan insana kavuşur' deyimi neyi ifade eder?",
+          "options": ["Doğanın gücü", "İnsan ilişkilerinin önemi", "Zorlukların üstesinden gelmek", "Ulaşılmaz hedefler"],
+          "correctAnswer": "İnsan ilişkilerinin önemi",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "Almanca 'Die Kuh vom Eis holen' ifadesinin Türkçe karşılığı nedir?",
+          "options": ["Karı kıştan çıkarmak", "İşi yoluna koymak", "Kötü durumdan kurtulmak", "Büyük tehlikeden kaçınmak"],
+          "correctAnswer": "İşi yoluna koymak",
+          "difficultyLevel": "Hard",
+          "timeLimit": 30
+        },
+        {
+          "question": "'Ayağını yorganına göre uzat' deyiminin anlamı nedir?",
+          "options": ["Her zaman hazırlıklı ol", "Olanakların ölçüsünde hareket et", "Uzun vadeli plan yap", "Her şeyi ölçülü yap"],
+          "correctAnswer": "Olanakların ölçüsünde hareket et",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "İtalyanca 'Chi trova un amico, trova un tesoro.' ifadesinin Türkçe karşılığı hangisidir?",
+          "options": ["Bir dost bulan bir hazine bulmuştur", "Dost kazanmak zor", "Gerçek dostluklar değerlidir", "Her dostluk kıymetlidir"],
+          "correctAnswer": "Bir dost bulan bir hazine bulmuştur",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "'Her işte bir hayır vardır' deyimi neyi ifade eder?",
+          "options": ["Her zaman bir çözüm vardır", "Kötü gibi görünen şeylerde iyi yanlar bulunabilir", "İşler her zaman iyi sonuçlanır", "İyi niyet önemlidir"],
+          "correctAnswer": "Kötü gibi görünen şeylerde iyi yanlar bulunabilir",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "İngilizce 'Every cloud has a silver lining.' deyiminin Türkçe karşılığı nedir?",
+          "options": ["Her işin sonu iyi biter", "Her kötü olayın sonunda iyi bir yan vardır", "Her bulutun arkası gümüş", "Her zaman umut vardır"],
+          "correctAnswer": "Her kötü olayın sonunda iyi bir yan vardır",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "'Üzüm üzüme baka baka kararır' deyiminin anlamı nedir?",
+          "options": ["Tecrübe ile insanlar değişir", "Çevre insanı etkiler", "Karşılıklı etkileşim önemlidir", "İyi örnek iyi sonuç getirir"],
+          "correctAnswer": "Çevre insanı etkiler",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "'El alem ne der?' sözü hangi durumu ifade eder?",
+          "options": ["Başkalarının düşüncelerine önem vermek", "Yalnızlık hissi", "Toplumsal baskı", "Kişisel kararlar"],
+          "correctAnswer": "Başkalarının düşüncelerine önem vermek",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        }
+      ]
+    },
+    {
+      "categoryName": "Yiyecek ve İçecekler",
+      "questions": [
+        {
+          "question": "Hangi şehir Türkiye'nin kebap başkenti olarak bilinir?",
+          "options": ["İstanbul", "Adana", "Gaziantep", "Bursa"],
+          "correctAnswer": "Gaziantep",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "Fransız mutfağında 'coq au vin' hangi ana malzemeyi içerir?",
+          "options": ["Tavuk", "Dana", "Koyun", "Balık"],
+          "correctAnswer": "Tavuk",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "'Risotto' hangi ülkenin geleneksel yemeğidir?",
+          "options": ["İtalya", "Fransa", "İspanya", "Portekiz"],
+          "correctAnswer": "İtalya",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "Hangi içecek, kırmızı şaraptan daha fazla tanen içerir?",
+          "options": ["Beyaz şarap", "Bira", "Votka", "Rosé şarap"],
+          "correctAnswer": "Beyaz şarap",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "'Sushi' aslen hangi ülkenin yemeğidir?",
+          "options": ["Çin", "Japonya", "Kore", "Tayland"],
+          "correctAnswer": "Japonya",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "Türkiye'de 'lokum' olarak bilinen tatlı hangi isimle anılır?",
+          "options": ["Turkish Delight", "Sweet Jewel", "Ottoman Candy", "Sultan's Dessert"],
+          "correctAnswer": "Turkish Delight",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "'Paella' yemeği hangi ana malzeme ile ünlüdür?",
+          "options": ["Makarna", "Pirinç", "Ekmek", "Bulgur"],
+          "correctAnswer": "Pirinç",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "İtalyan mutfağında 'gelato' ne tür bir yiyecektir?",
+          "options": ["Pasta", "Dondurma", "Pizza", "Ekmek"],
+          "correctAnswer": "Dondurma",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "Türkiye'nin meşhur 'ayran' içeceği temelde hangi iki malzemeden yapılır?",
+          "options": ["Su ve Şeker", "Yoğurt ve Su", "Süt ve Bal", "Şarap ve Su"],
+          "correctAnswer": "Yoğurt ve Su",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "'Tiramisu' tatlısı hangi ülke mutfak kültürüne aittir?",
+          "options": ["Fransa", "İtalya", "İspanya", "Yunanistan"],
+          "correctAnswer": "İtalya",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "Hangi içecek genellikle 'scoby' adı verilen bir maya kültürü kullanılarak yapılır?",
+          "options": ["Kombucha", "Kefir", "Ayran", "Bira"],
+          "correctAnswer": "Kombucha",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "Trabzon şehrine özgü 'Akçaabat köfte' hangi etten yapılır?",
+          "options": ["Tavuk", "Koyun", "Dana", "Bizon"],
+          "correctAnswer": "Dana",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "'Kimchi' hangi ülkenin geleneksel fermente sebze yemeğidir?",
+          "options": ["Japonya", "Kore", "Çin", "Vietnam"],
+          "correctAnswer": "Kore",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "'Espresso' kahvesi ilk olarak hangi ülkede popüler olmuştur?",
+          "options": ["Fransa", "İtalya", "İspanya", "Portekiz"],
+          "correctAnswer": "İtalya",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "'Chorizo' hangi tür yiyecektir?",
+          "options": ["Peynir", "Sosis", "Ekmek", "Pasta"],
+          "correctAnswer": "Sosis",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "'Baguette' ekmeği hangi ülkeye özgüdür?",
+          "options": ["İtalya", "Fransa", "Almanya", "İspanya"],
+          "correctAnswer": "Fransa",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "'Borscht' çorbası hangi ülkenin geleneksel yemeğidir?",
+          "options": ["Polonya", "Ukrayna", "Romanya", "Bulgaristan"],
+          "correctAnswer": "Ukrayna",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "İspanya'nın geleneksel içeceği 'Sangria' hangi temel içerikle yapılır?",
+          "options": ["Votka", "Şarap", "Bira", "Rakı"],
+          "correctAnswer": "Şarap",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "'Feta' peyniri hangi ülke mutfak kültürüne aittir?",
+          "options": ["İtalya", "Yunanistan", "Fransa", "İspanya"],
+          "correctAnswer": "Yunanistan",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "Hangi içecek sıklıkla 'Moğol savaşçılarının içkisi' olarak adlandırılır?",
+          "options": ["Kımız", "Şarap", "Rakı", "Votka"],
+          "correctAnswer": "Kımız",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        }
+      ]
+    },
+    {
+      "categoryName": "Doğa ve Hayvanlar",
+      "questions": [
+        {
+          "question": "Dünyanın en büyük kara hayvanı hangisidir?",
+          "options": ["Mavi balina", "Afrika fili", "Gri balina", "Hippopotam"],
+          "correctAnswer": "Afrika fili",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "Amazon yağmur ormanları hangi kıtada yer almaktadır?",
+          "options": ["Asya", "Afrika", "Güney Amerika", "Kuzey Amerika"],
+          "correctAnswer": "Güney Amerika",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "Bir panda ne tür bir diyetle beslenir?",
+          "options": ["Etçil", "Otçul", "Herbivor", "Omnivor"],
+          "correctAnswer": "Herbivor",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "Kelaynak kuşları hangi ülkeyle özdeşleşmiştir?",
+          "options": ["Kanada", "Meksika", "Türkiye", "Rusya"],
+          "correctAnswer": "Türkiye",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "Hangi hayvanın türü, adını Darwin'den almıştır?",
+          "options": ["Galapagos kaplumbağası", "Darwin's Fox", "Darwin yılanı", "Darwin balinası"],
+          "correctAnswer": "Darwin's Fox",
+          "difficultyLevel": "Hard",
+          "timeLimit": 30
+        },
+        {
+          "question": "Yeryüzündeki en zehirli örümcek hangisidir?",
+          "options": ["Siyah dul", "Avustralya huni ağı", "Kahverengi saplantı", "Tarantula"],
+          "correctAnswer": "Avustralya huni ağı",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "Bir koala günde yaklaşık kaç saat uyur?",
+          "options": ["8 saat", "12 saat", "18 saat", "22 saat"],
+          "correctAnswer": "18 saat",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "Hangi hayvanlar sürüngenler grubuna aittir?",
+          "options": ["Kangurular", "Penguenler", "Timsahlar", "Ahtapotlar"],
+          "correctAnswer": "Timsahlar",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "Kuzey ışıkları genellikle hangi kutup bölgesinde görülür?",
+          "options": ["Kuzey Kutbu", "Güney Kutbu", "Her ikisi", "Hiçbiri"],
+          "correctAnswer": "Kuzey Kutbu",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "Çöl tilkisi olarak da bilinen hayvan hangisidir?",
+          "options": ["Kırmızı tilki", "Fenek", "Siyah tilki", "Gümüş tilki"],
+          "correctAnswer": "Fenek",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "Bir kaplumbağanın kabuğu hangi maddeden oluşur?",
+          "options": ["Kemik", "Keratin", "Selüloz", "Çelik"],
+          "correctAnswer": "Kemik",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "İnsan DNA'sı yüzde kaç oranında bir şempanzeyle benzerdir?",
+          "options": ["Yaklaşık %96", "Yaklaşık %90", "Yaklaşık %75", "Yaklaşık %50"],
+          "correctAnswer": "Yaklaşık %96",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "Hangi hayvan grupta yaşayan tek kedi türüdür?",
+          "options": ["Aslan", "Kaplan", "Leopar", "Jaguar"],
+          "correctAnswer": "Aslan",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "Hangi bitki, ismini Yunanca 'güzel kadın' anlamına gelen sözcükten alır?",
+          "options": ["Orkide", "Gül", "Lavanta", "Kaktüs"],
+          "correctAnswer": "Orkide",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "Dünyadaki en derin okyanus hangisidir?",
+          "options": ["Atlantik Okyanusu", "Hint Okyanusu", "Kuzey Buz Denizi", "Pasifik Okyanusu"],
+          "correctAnswer": "Pasifik Okyanusu",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "Sinek kuşları yalnızca hangi kıtada bulunur?",
+          "options": ["Avrupa", "Asya", "Kuzey Amerika", "Güney Amerika"],
+          "correctAnswer": "Güney Amerika",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "Bir su aygırının ağırlığı ne kadar olabilir?",
+          "options": ["500 kg", "1 ton", "1.5 ton", "2.5 ton"],
+          "correctAnswer": "1.5 ton",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "Denizanası ne tür bir canlıdır?",
+          "options": ["Balık", "Omurgasız", "Sürüngen", "Memeli"],
+          "correctAnswer": "Omurgasız",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "Hangi balık türü okyanusların en hızlı yüzücüsüdür?",
+          "options": ["Yunus", "Kılıçbalığı", "Vatoz", "Mavi köpekbalığı"],
+          "correctAnswer": "Kılıçbalığı",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "Bir gökkuşağı genellikle kaç farklı renk içerir?",
+          "options": ["5", "6", "7", "8"],
+          "correctAnswer": "7",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        }
+      ]
+    },
+    {
+      "categoryName": "Eğlence ve Pop Kültür",
+      "questions": [
+        {
+          "question": "Hangi ünlü pop yıldızı 'Like a Prayer' şarkısıyla 1989 yılında büyük bir hit elde etti?",
+          "options": ["Madonna", "Whitney Houston", "Janet Jackson", "Tina Turner"],
+          "correctAnswer": "Madonna",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "'The Matrix' film serisinde Neo karakterini canlandıran aktör kimdir?",
+          "options": ["Keanu Reeves", "Brad Pitt", "Johnny Depp", "Leonardo DiCaprio"],
+          "correctAnswer": "Keanu Reeves",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "Hangi televizyon dizisi, bir grup arkadaşın New York'taki yaşamını konu alır ve 10 sezon sürmüştür?",
+          "options": ["Friends", "Seinfeld", "The Big Bang Theory", "How I Met Your Mother"],
+          "correctAnswer": "Friends",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "'Harry Potter' serisinde Harry'nin en iyi erkek arkadaşı kimdir?",
+          "options": ["Draco Malfoy", "Neville Longbottom", "Ron Weasley", "Cedric Diggory"],
+          "correctAnswer": "Ron Weasley",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "K-pop müzik grubu BTS kaç üyeden oluşmaktadır?",
+          "options": ["5", "6", "7", "8"],
+          "correctAnswer": "7",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "2019 yılında en iyi film Oscar'ını kazanan yapım hangisidir?",
+          "options": ["Green Book", "The Shape of Water", "Moonlight", "Parasite"],
+          "correctAnswer": "Green Book",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "Hangi şarkıcı 'Single Ladies (Put a Ring on It)' hitini seslendirmiştir?",
+          "options": ["Beyoncé", "Rihanna", "Lady Gaga", "Katy Perry"],
+          "correctAnswer": "Beyoncé",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "'Game of Thrones' dizisinin hayali kıtasının adı nedir?",
+          "options": ["Middle-Earth", "Westeros", "Narnia", "Essos"],
+          "correctAnswer": "Westeros",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "Hangi sanatçı 'Thriller' albümüyle tüm zamanların en çok satan albümüne sahiptir?",
+          "options": ["Michael Jackson", "Elvis Presley", "The Beatles", "Whitney Houston"],
+          "correctAnswer": "Michael Jackson",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "'Breaking Bad' televizyon dizisinde Walter White karakterini kim canlandırmıştır?",
+          "options": ["Bryan Cranston", "Aaron Paul", "Bob Odenkirk", "Dean Norris"],
+          "correctAnswer": "Bryan Cranston",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "2018 yılında popüler olan ve çocukların oynaması için uyarılar yapılan dans akımı hangisidir?",
+          "options": ["Gangnam Style", "Harlem Shake", "Floss Dance", "Dab"],
+          "correctAnswer": "Floss Dance",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "Hangi sanatçı 'Rolling in the Deep' şarkısıyla ün kazanmıştır?",
+          "options": ["Adele", "Amy Winehouse", "Sia", "Lana Del Rey"],
+          "correctAnswer": "Adele",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "2017 yılında dünya genelinde fenomen haline gelen, 'Despacito' şarkısını kim seslendirmiştir?",
+          "options": ["Luis Fonsi", "Daddy Yankee", "Enrique Iglesias", "Ricky Martin"],
+          "correctAnswer": "Luis Fonsi",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "Netflix orijinal dizisi 'Stranger Things', hangi yüzyılın sonlarında geçmektedir?",
+          "options": ["1970'lerin", "1980'lerin", "1990'ların", "2000'lerin"],
+          "correctAnswer": "1980'lerin",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "Hangi sanatçı 'Chandelier' şarkısıyla ünlüdür?",
+          "options": ["Beyoncé", "Sia", "Lady Gaga", "Adele"],
+          "correctAnswer": "Sia",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "2014 yılında çok satan bir kitaptan uyarlanan ve Shailene Woodley'nin başrolde olduğu film hangisidir?",
+          "options": ["The Fault in Our Stars", "Divergent", "Twilight", "Hunger Games"],
+          "correctAnswer": "The Fault in Our Stars",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "2016 yılında 'La La Land' filminde başrolü kim paylaşmıştır?",
+          "options": ["Emma Stone ve Ryan Gosling", "Bradley Cooper ve Lady Gaga", "Emma Watson ve Dan Stevens", "Jennifer Lawrence ve Chris Pratt"],
+          "correctAnswer": "Emma Stone ve Ryan Gosling",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "Hangi ünlü rap sanatçısı 'Stan' ve 'Lose Yourself' gibi hit parçaların sahibidir?",
+          "options": ["Jay-Z", "Eminem", "Drake", "Kanye West"],
+          "correctAnswer": "Eminem",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "Hangi televizyon yarışması, şarkıcıların maskeler takarak yarıştığı bir formatı içerir?",
+          "options": ["The Voice", "Masked Singer", "America's Got Talent", "X Factor"],
+          "correctAnswer": "Masked Singer",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "2010 yılında dünya genelinde viral olan 'Gangnam Style' şarkısını kim seslendirmiştir?",
+          "options": ["PSY", "BTS", "G-Dragon", "Rain"],
+          "correctAnswer": "PSY",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        }
+      ]
+    },
+    {
+      "categoryName": "Müzik",
+      "questions": [
+        {
+          "question": "Dünyaca ünlü 'Bohemian Rhapsody' şarkısını hangi grup seslendirmiştir?",
+          "options": ["The Beatles", "Queen", "Led Zeppelin", "Pink Floyd"],
+          "correctAnswer": "Queen",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "Hangi müzik aleti özellikle blues, jazz ve rock müzikte yaygın olarak kullanılır?",
+          "options": ["Keman", "Saksafon", "Piyano", "Ukulele"],
+          "correctAnswer": "Saksafon",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "2012 yılında popüler olan ve birçok ödül kazanan 'Somebody That I Used to Know' şarkısını kim seslendirmiştir?",
+          "options": ["Gotye", "Bruno Mars", "Ed Sheeran", "Adam Levine"],
+          "correctAnswer": "Gotye",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "'Fur Elise' hangi bestecinin ünlü piyano eseridir?",
+          "options": ["Wolfgang Amadeus Mozart", "Ludwig van Beethoven", "Johann Sebastian Bach", "Franz Schubert"],
+          "correctAnswer": "Ludwig van Beethoven",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "Hangi şarkıcı 'Like a Virgin' ve 'Material Girl' gibi hit parçalarıyla 1980'lerde ün kazanmıştır?",
+          "options": ["Madonna", "Cyndi Lauper", "Whitney Houston", "Janet Jackson"],
+          "correctAnswer": "Madonna",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "Reggae müziği ile özdeşleşmiş olan efsanevi sanatçı kimdir?",
+          "options": ["Bob Marley", "Peter Tosh", "Bunny Wailer", "Jimmy Cliff"],
+          "correctAnswer": "Bob Marley",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "'Imagine' şarkısının yazarı ve seslendiren kimdir?",
+          "options": ["John Lennon", "Paul McCartney", "George Harrison", "Ringo Starr"],
+          "correctAnswer": "John Lennon",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "Hangi müzik türü genellikle ritim ve mizansen olarak güçlü bir vurgu içerir ve 1970'lerde Amerika'da popüler olmuştur?",
+          "options": ["Rock", "Disco", "Folk", "Country"],
+          "correctAnswer": "Disco",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "'Thriller' albümü kime aittir?",
+          "options": ["Michael Jackson", "Prince", "David Bowie", "Elvis Presley"],
+          "correctAnswer": "Michael Jackson",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "Hangi şarkıcı 'Poker Face' şarkısıyla ün kazanmıştır?",
+          "options": ["Lady Gaga", "Katy Perry", "Rihanna", "Beyoncé"],
+          "correctAnswer": "Lady Gaga",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "Hangi grup 'Stairway to Heaven' şarkısını seslendirmiştir?",
+          "options": ["The Rolling Stones", "Led Zeppelin", "The Who", "The Doors"],
+          "correctAnswer": "Led Zeppelin",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "Hangi müzikal tür, genellikle hızlı tempolu parçalar ve İrlanda veya İskoçya'ya özgü geleneksel enstrümanlarla bilinir?",
+          "options": ["Jazz", "Blues", "Celtic", "Opera"],
+          "correctAnswer": "Celtic",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "Hangi sanatçı 'Rolling in the Deep' şarkısıyla Grammy Ödülleri'nde en iyi solo performans ödülünü kazanmıştır?",
+          "options": ["Adele", "Amy Winehouse", "Alicia Keys", "Norah Jones"],
+          "correctAnswer": "Adele",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "'Purple Haze' şarkısı hangi gitaristin en bilinen parçalarından biridir?",
+          "options": ["Eric Clapton", "Jimi Hendrix", "Slash", "Jimmy Page"],
+          "correctAnswer": "Jimi Hendrix",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "Hangi ülke, Eurovision Şarkı Yarışması'nı en çok kazanmıştır?",
+          "options": ["İngiltere", "İsveç", "İrlanda", "Fransa"],
+          "correctAnswer": "İrlanda",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        },
+        {
+          "question": "'Hotel California' şarkısını hangi Amerikan rock bandı seslendirmiştir?",
+          "options": ["Eagles", "Aerosmith", "Fleetwood Mac", "The Beach Boys"],
+          "correctAnswer": "Eagles",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "Hangi şarkıcı 'Hips Don't Lie' şarkısıyla 2000'lerin başında popüler olmuştur?",
+          "options": ["Shakira", "Jennifer Lopez", "Christina Aguilera", "Britney Spears"],
+          "correctAnswer": "Shakira",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "Hangi grup 'November Rain' ve 'Sweet Child o' Mine' gibi şarkılarla tanınır?",
+          "options": ["Guns N' Roses", "Metallica", "Nirvana", "AC/DC"],
+          "correctAnswer": "Guns N' Roses",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "Mozart hangi müzik döneminin ünlü bestecisidir?",
+          "options": ["Barok", "Klasik", "Romantik", "Modern"],
+          "correctAnswer": "Klasik",
+          "difficultyLevel": "Easy",
+          "timeLimit": 15
+        },
+        {
+          "question": "'Back to Black' albümü hangi İngiliz şarkıcıya aittir?",
+          "options": ["Adele", "Amy Winehouse", "Duffy", "Lily Allen"],
+          "correctAnswer": "Amy Winehouse",
+          "difficultyLevel": "Medium",
+          "timeLimit": 20
+        }
+      ]
+    }
+  ]
+}
